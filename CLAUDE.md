@@ -17,7 +17,7 @@ Update it as things change. It is the source of truth for ongoing health convers
 - **Anxiety** (secondary; often co-occurring with depression)
 - **Parkinson's Disease** (diagnosed/treated starting July 2024; first likely Parkinsonian fall Jan 13, 2024)
 - **Bipolar Disorder** (long history; currently managed with Lamotrigine + Seroquel)
-- **Heart Disease** — 3 stents (2x in 2013, 1x in 2024; unclogged 2024 stent Dec 2025)
+- **Heart Disease** — 4 stent operations: (1) 2013, (2) December 2024, (3) December 2025, (4) April 22, 2026 — re-stenting a larger area; 4 days post-op as of today
 - **Hypothyroidism** (on Levothyroxine since June 24, 2019)
 - **Restless Leg Syndrome** (ongoing; managed partly with Gabapentin + Magnesium)
 - **High Cholesterol** (on Rosuvastatin)
@@ -74,7 +74,7 @@ Update it as things change. It is the source of truth for ongoing health convers
 
 ## Key Doctors
 
-- **Dr. Latif** — psychiatrist (long-term; manages psych meds)
+- **Dr. Jennifer Furst** — psychiatrist (manages psych meds; replaced Dr. Latif)
 - **Dr. Charney** — heart surgeon (3 stents)
 - **Dr. Solarz** — cardiologist
 - **Dr. Frucht** — neurologist (Parkinson's)
@@ -95,7 +95,7 @@ Update it as things change. It is the source of truth for ongoing health convers
 - **2024** — Started Carbidopa-Levodopa 3x/day (July) — Parkinson's treatment begins
 - **2024** — New stent (Dec); started Clopidogrel
 - **2025** — December stent work; switched to Brilinta
-- **2026** — Rosuvastatin increased to 40mg; Colchicine added (Jan), paused, restarted; Amantadine tried and stopped (caused depression); Metoprolol Succinate 50mg added
+- **2026** — Rosuvastatin increased to 40mg; Colchicine added (Jan), paused, restarted; Amantadine tried and stopped (caused depression); Metoprolol Succinate 50mg added; 4th stent operation April 22, 2026 (re-stenting larger area)
 
 ---
 
