@@ -128,7 +128,7 @@ Update it as things change. It is the source of truth for ongoing health convers
 ## Important Clinical Notes
 
 - **Parkinson's and depression are deeply linked** — dopaminergic system damage in Parkinson's directly affects mood circuits; his depression may be partially neurological, not purely psychiatric
-- **Amantadine caused depression** — stopped Jan/Feb 2026; worth monitoring if residual effects are still clearing
+- **Amantadine caused depression** — stopped Jan/Feb 2026; no longer taking it; residual effects have cleared
 - **Carbidopa-Levodopa affects dopamine** — timing of doses (8am, noon, 4pm) may influence mood windows throughout the day; worth tracking if mood lifts correlate with L-dopa peaks
 - **Restless leg history** has driven many medication changes over the years — a recurring complicating factor
 - **Long medication journey** — has tried Latuda, Lithium, Vraylar, Vyvanse, Abilify, Klonopin, Amantadine, Colchicine among others; current regimen is hard-won
