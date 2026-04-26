@@ -24,7 +24,7 @@ Update it as things change. It is the source of truth for ongoing health convers
 
 ---
 
-## Current Medications (as of March 14, 2026)
+## Current Medications (as of April 26, 2026)
 
 ### Morning — 8am
 | Medication | Dose | Purpose |
@@ -34,8 +34,9 @@ Update it as things change. It is the source of truth for ongoing health convers
 | Valsartan | 80mg | Blood pressure / heart |
 | Lamotrigine | 150mg | Mood stabilizer — bipolar/depression |
 | Levothyroxine | 50mcg | Thyroid |
-| Omega-3 fish oil | — | Supplement |
 | Baby Aspirin | — | Heart |
+| Colchicine | 0.6mg | Anti-inflammatory — cardiac |
+| Metoprolol Succinate | 50mg | Beta blocker — heart |
 
 ### Noon
 | Medication | Dose | Purpose |
@@ -51,7 +52,7 @@ Update it as things change. It is the source of truth for ongoing health convers
 | Medication | Dose | Purpose |
 |---|---|---|
 | Ticagrelor (Brilinta) | 90mg | Antiplatelet — heart/stents |
-| Seroquel (Quetiapine) | 100mg* | Mood stabilizer — depression/bipolar |
+| Seroquel (Quetiapine) | 100mg | Mood stabilizer — depression/bipolar |
 | Rosuvastatin (Crestor) | 40mg | Cholesterol |
 | Gabapentin | 600mg (2 capsules) | Restless leg / nerve / anxiety |
 | Vitamin D | 25mcg | Supplement |
@@ -62,11 +63,11 @@ Update it as things change. It is the source of truth for ongoing health convers
 |---|---|---|
 | Magnesium Glycinate | 200mg | Sleep / restless leg |
 
-*Seroquel recently increased — confirm new dose
+### On Hold
+- **Omega-3 fish oil** — may resume
 
 ### Recently Stopped
 - **Clopidogrel (Plavix)** 75mg — replaced by Brilinta (Dec 2025)
-- **Colchicine** — anti-inflammatory added Jan 2026, finished March 2026
 - **Amantadine** — prescribed Jan 28, 2026 by Dr. Frucht for Parkinson's tremor; stopped after ~2 weeks because it caused depression
 
 ---
@@ -94,7 +95,7 @@ Update it as things change. It is the source of truth for ongoing health convers
 - **2024** — Started Carbidopa-Levodopa 3x/day (July) — Parkinson's treatment begins
 - **2024** — New stent (Dec); started Clopidogrel
 - **2025** — December stent work; switched to Brilinta
-- **2026** — Rosuvastatin increased to 40mg; Colchicine added then stopped; Amantadine tried and stopped (caused depression)
+- **2026** — Rosuvastatin increased to 40mg; Colchicine added (Jan), paused, restarted; Amantadine tried and stopped (caused depression); Metoprolol Succinate 50mg added
 
 ---
 
@@ -131,6 +132,7 @@ Update it as things change. It is the source of truth for ongoing health convers
 - **Amantadine caused depression** — stopped Jan/Feb 2026; no longer taking it; residual effects have cleared
 - **Carbidopa-Levodopa affects dopamine** — timing of doses (8am, noon, 4pm) may influence mood windows throughout the day; worth tracking if mood lifts correlate with L-dopa peaks
 - **Restless leg history** has driven many medication changes over the years — a recurring complicating factor
+- **Metoprolol Succinate (beta blocker) is a known depression risk** — beta blockers can cause or worsen depression and fatigue in some patients; worth monitoring mood since it was added
 - **Long medication journey** — has tried Latuda, Lithium, Vraylar, Vyvanse, Abilify, Klonopin, Amantadine, Colchicine among others; current regimen is hard-won
 
 ---
