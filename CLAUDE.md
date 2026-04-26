@@ -137,6 +137,11 @@ Update it as things change. It is the source of truth for ongoing health convers
 
 ---
 
+## Recent Significant Changes
+- **Stopped cannabis** — approximately 6 weeks ago (mid-March 2026); relevant to mood given endocannabinoid/dopamine interaction
+
+---
+
 ## Open Questions / Things to Track
 
 - Confirmed new Seroquel dose after recent increase
