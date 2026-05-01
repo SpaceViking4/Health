@@ -134,6 +134,7 @@ Update it as things change. It is the source of truth for ongoing health convers
 - **Restless leg history** has driven many medication changes over the years — a recurring complicating factor
 - **Metoprolol Succinate (beta blocker) is a known depression risk** — beta blockers can cause or worsen depression and fatigue in some patients; worth monitoring mood since it was added
 - **Long medication journey** — has tried Latuda, Lithium, Vraylar, Vyvanse, Abilify, Klonopin, Amantadine, Colchicine among others; current regimen is hard-won
+- **Phantosmia (phantom smells)** — experiences episodic foul, slightly metallic phantom smells; has occurred ~20 times over his life, onset around age 30; likely Parkinson's-related (olfactory bulb is among first brain regions affected by Lewy body pathology, often decades before motor symptoms — Braak Stage 1-2); uncinate seizures (temporal lobe) are a secondary possibility worth mentioning to Dr. Frucht
 
 ---
 
