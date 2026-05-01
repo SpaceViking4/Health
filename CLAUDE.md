@@ -3,6 +3,8 @@
 This file is loaded automatically at the start of every Claude Code session.
 Update it as things change. It is the source of truth for ongoing health conversations.
 
+At the end of any conversation where something notable came up, flag it: "that's worth saving, want me to add it?" Do not update this file without asking first.
+
 ---
 
 ## Identity
