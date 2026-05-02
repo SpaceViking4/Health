@@ -21,7 +21,7 @@ At the end of any conversation where something notable came up, flag it: "that's
 
 - **Depression** (primary focus of ongoing conversations)
 - **Anxiety** (secondary; often co-occurring with depression)
-- **Parkinson's Disease** (diagnosed/treated starting July 2024; first likely Parkinsonian fall Jan 13, 2024)
+- **Parkinson's Disease** (diagnosed June 2022; resting tremor right hand/arm was presenting symptom leading to diagnosis; treatment started July 2024; first likely Parkinsonian fall Jan 13, 2024; left-hemisphere dominant pathology)
 - **Bipolar Disorder** (long history; currently managed with Lamotrigine + Seroquel)
 - **Heart Disease** — 4 stent operations: (1) 2013, (2) December 2024, (3) December 2025, (4) April 22, 2026 — re-stenting a larger area; 4 days post-op as of today
 - **Hypothyroidism** (on Levothyroxine since June 24, 2019)
@@ -138,6 +138,7 @@ At the end of any conversation where something notable came up, flag it: "that's
 - **Metoprolol Succinate (beta blocker) is a known depression risk** — beta blockers can cause or worsen depression and fatigue in some patients; worth monitoring mood since it was added
 - **Long medication journey** — has tried Latuda, Lithium, Vraylar, Vyvanse, Abilify, Klonopin, Amantadine, Colchicine among others; current regimen is hard-won
 - **Phantosmia (phantom smells)** — experiences episodic foul, slightly metallic phantom smells; has occurred ~40 times over his life, onset around age 30; likely Parkinson's-related (olfactory bulb is among first brain regions affected by Lewy body pathology, often decades before motor symptoms — Braak Stage 1-2); uncinate seizures (temporal lobe) are a secondary possibility worth mentioning to Dr. Frucht
+- **Nosebleeds (epistaxis) — left nostril only** — frequency increased from ~once every 2 months to ~once every 1-2 weeks starting approximately January/February 2026; most likely caused by the switch from Clopidogrel (Plavix) to Ticagrelor (Brilinta) in December 2025 — Brilinta is a stronger antiplatelet and clinical data shows higher epistaxis rates vs. Plavix; aspirin on top amplifies this; colchicine and metoprolol (started ~late April 2026) are unlikely contributors. Left-nostril specificity is consistent with PD lateralization: right-hand tremor indicates left-hemisphere dominant PD pathology; left olfactory bulb (ipsilateral) serves left nostril and likely has more Lewy body involvement, contributing to left nasal autonomic dysregulation. Worth mentioning to Dr. Solarz (for the record) and Dr. Frucht (lateralization data point). Not currently worsening — monitor frequency.
 - **Sinus-Parkinson's connection** — research confirms deep nasal sinus cavity has direct anatomical access to the brain via the olfactory nerve (bypasses blood-brain barrier); chronic sinus inflammation causes nasal microbiota dysbiosis similar to that found in PD patients, which triggers neuroinflammation in the olfactory bulb and can accelerate alpha-synuclein misfolding and Lewy body formation; Gregory's ~40 episodes of phantosmia beginning ~age 30 are consistent with olfactory bulb Lewy pathology at Braak Stage 1-2, likely decades before motor symptom onset in 2024; if chronic sinus issues are present, worth mentioning to Dr. Frucht as managing sinus inflammation may reduce ongoing neuroinflammatory burden
 
 ---
