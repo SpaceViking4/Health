@@ -5,6 +5,10 @@ Update it as things change. It is the source of truth for ongoing health convers
 
 At the end of any conversation where something notable came up, flag it: "that's worth saving, want me to add it?" Do not update this file without asking first.
 
+## Git Instructions — MANDATORY
+
+**ALWAYS commit directly to `claude/health`. NEVER create a new branch. NEVER use a feature branch. NEVER push to any branch other than `claude/health`.**
+
 ---
 
 ## Identity
