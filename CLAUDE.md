@@ -30,7 +30,7 @@ At the end of any conversation where something notable came up, flag it: "that's
 
 ---
 
-## Current Medications (as of April 26, 2026)
+## Current Medications (as of April 29, 2026)
 
 ### Morning — 8am
 | Medication | Dose | Purpose |
@@ -38,7 +38,7 @@ At the end of any conversation where something notable came up, flag it: "that's
 | Ticagrelor (Brilinta) | 90mg | Antiplatelet — heart/stents |
 | Carbidopa-Levodopa | 25mg | Parkinson's |
 | Valsartan | 80mg | Blood pressure / heart |
-| Lamotrigine | 150mg | Mood stabilizer — bipolar/depression |
+| Lamotrigine | 200mg | Mood stabilizer — bipolar/depression |
 | Levothyroxine | 50mcg | Thyroid |
 | Baby Aspirin | — | Heart |
 | Colchicine | 0.6mg | Anti-inflammatory — cardiac |
@@ -61,13 +61,8 @@ At the end of any conversation where something notable came up, flag it: "that's
 | Seroquel (Quetiapine) | 100mg | Mood stabilizer — depression/bipolar |
 | Rosuvastatin (Crestor) | 40mg | Cholesterol |
 | Gabapentin | 600mg (2 capsules) | Restless leg / nerve / anxiety |
+| Lamotrigine | 200mg | Mood stabilizer — bipolar/depression |
 | Vitamin D | 25mcg | Supplement |
-| Odorless Garlic | — | Supplement |
-
-### 10pm
-| Medication | Dose | Purpose |
-|---|---|---|
-| Magnesium Glycinate | 200mg | Sleep / restless leg |
 
 ### On Hold
 - **Omega-3 fish oil** — may resume
@@ -75,6 +70,8 @@ At the end of any conversation where something notable came up, flag it: "that's
 ### Recently Stopped
 - **Clopidogrel (Plavix)** 75mg — replaced by Brilinta (Dec 2025)
 - **Amantadine** — prescribed Jan 28, 2026 by Dr. Frucht for Parkinson's tremor; stopped after ~2 weeks because it caused depression
+- **Magnesium Glycinate** 200mg (10pm) — stopped ~early February 2026 (approximately 3 months ago as of late April 2026); had been used for sleep/restless leg
+- **Odorless Garlic** — removed from evening meds (April 2026)
 
 ---
 
