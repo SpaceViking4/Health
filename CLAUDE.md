@@ -31,7 +31,7 @@ At the end of any conversation where something notable came up, flag it: "that's
 
 ---
 
-## Current Medications (as of April 29, 2026)
+## Current Medications (as of May 28, 2026)
 
 ### Morning — 8am
 | Medication | Dose | Purpose |
@@ -43,7 +43,8 @@ At the end of any conversation where something notable came up, flag it: "that's
 | Levothyroxine | 50mcg | Thyroid |
 | Baby Aspirin | — | Heart |
 | Colchicine | 0.6mg | Anti-inflammatory — cardiac |
-| Metoprolol Succinate | 50mg | Beta blocker — heart |
+
+**No beta blocker currently** — Metoprolol switched to Atenolol ~mid-May 2026 due to depression; Atenolol stopped after May 24 fall due to orthostatic/BP-lowering concern. Awaiting cardiology decision on replacement (if any).
 
 ### Noon
 | Medication | Dose | Purpose |
@@ -73,6 +74,8 @@ At the end of any conversation where something notable came up, flag it: "that's
 - **Amantadine** — prescribed Jan 28, 2026 by Dr. Frucht for Parkinson's tremor; stopped after ~2 weeks because it caused depression
 - **Magnesium Glycinate** 200mg (10pm) — stopped ~early February 2026 (approximately 3 months ago as of late April 2026); had been used for sleep/restless leg
 - **Odorless Garlic** — removed from evening meds (April 2026)
+- **Metoprolol Succinate** 50mg — switched to Atenolol by Dr. Solarz in mid-May 2026 due to depression symptoms (Metoprolol has known depression-risk profile)
+- **Atenolol** — started mid-May 2026 as Metoprolol replacement; stopped late May 2026 after the May 24 fall, on concern that BP-lowering effect contributed to orthostatic syncope. No beta blocker currently; awaiting cardiology decision.
 
 ---
 
@@ -82,6 +85,7 @@ At the end of any conversation where something notable came up, flag it: "that's
 - **Dr. Charney** — heart surgeon (3 stents)
 - **Dr. Solarz** — cardiologist
 - **Dr. Frucht** — neurologist (Parkinson's)
+- **Dr. Finkelstein** — general practitioner (GP)
 - Therapist (active)
 
 ---
@@ -99,7 +103,7 @@ At the end of any conversation where something notable came up, flag it: "that's
 - **2024** — Started Carbidopa-Levodopa 3x/day (July) — Parkinson's treatment begins
 - **2024** — New stent (Dec); started Clopidogrel
 - **2025** — December stent work; switched to Brilinta
-- **2026** — Rosuvastatin increased to 40mg; Colchicine added (Jan), paused, restarted; Amantadine tried and stopped (caused depression); Metoprolol Succinate 50mg added; 4th stent operation April 22, 2026 (re-stenting larger area)
+- **2026** — Rosuvastatin increased to 40mg; Colchicine added (Jan), paused, restarted; Amantadine tried and stopped (caused depression); Metoprolol Succinate 50mg added; 4th stent operation April 22, 2026 (re-stenting larger area); mid-May: Metoprolol switched to Atenolol (depression); late May: Atenolol stopped after May 24 fall (orthostatic concern); currently no beta blocker
 
 ---
 
@@ -180,17 +184,16 @@ At the end of any conversation where something notable came up, flag it: "that's
 
 ## Falls & Injuries
 
-- **May 24, 2026 (Sunday, ~11am) — major fall episode with two loss-of-consciousness events**
+- **May 24, 2026 (Sunday, ~11am) — major fall episode with two loss-of-consciousness events; overnight hospital admission**
   - **Mechanism:** Stood up from sitting position; dizziness + Parkinson's foot twisting → first fall onto left side; hit head on left and impacted ribs. Got up. Crawled on all fours. **Passed out again and fell face-first**, hitting face roughly symmetrically.
   - **Two distinct loss-of-consciousness episodes within one event.**
   - **Injuries:** broken nose (reset at hospital); 15 stitches across bridge of nose and lower forehead; left-side head impact; left rib impact.
-  - **Hospital evaluation:** went to ER; evaluated for head injury (presumably imaged given Brilinta + aspirin antiplatelet load).
-  - **Clinical concerns to raise with doctors:**
-    - **Syncope, not just balance fall** — two LOC episodes point to orthostatic hypotension and/or cardiogenic syncope, not just PD imbalance. Workup warranted.
-    - **Orthostatic risk stack:** Valsartan (ARB, ↓BP) + Metoprolol (beta blocker, ↓BP, ↓HR) + Carbidopa-Levodopa (known orthostatic side effect) + PD autonomic dysfunction = high cumulative orthostatic load.
-    - **Cardiac syncope** must be considered given 4-stent history, including 4th stent only 32 days prior (April 22, 2026).
-    - **Antiplatelet bleed risk** — Brilinta + aspirin amplifies any head injury; monitor for delayed intracranial bleed symptoms (worsening headache, vision changes, confusion, vomiting, drowsiness).
-  - **NOT YET reported to Dr. Frucht (neurologist) or Dr. Solarz (cardiologist) as of May 28, 2026** — both need to know. Falls in PD are a clinical milestone for Dr. Frucht; syncope + cardiac history is a Dr. Solarz workup conversation.
+  - **Hospital course:** ER → **admitted overnight**, discharged Monday May 25 early afternoon. Evaluated for head injury.
+  - **Likely contributing cause: Atenolol.** Dr. Solarz had switched him from Metoprolol → Atenolol in mid-May (about 1–2 weeks before the fall) to address depression symptoms; Atenolol is a BP-lowering beta blocker and the new addition is the most likely tipping factor. Atenolol has since been stopped.
+  - **Orthostatic risk stack at time of fall:** Atenolol (new) + Valsartan (ARB, ↓BP) + Carbidopa-Levodopa (known orthostatic side effect) + PD autonomic dysfunction = high cumulative orthostatic load.
+  - **Cardiac syncope** still on the differential given 4-stent history, with the 4th stent only 32 days prior (April 22, 2026). Workup outcome TBD.
+  - **Antiplatelet bleed risk** — Brilinta + aspirin amplifies any head injury; monitor for delayed intracranial bleed symptoms (worsening headache, vision changes, confusion, vomiting, drowsiness) for several weeks post-fall.
+  - **Care team status:** Dr. Solarz and Dr. Frucht have been reached directly. Dr. Furst is coordinating with both plus Dr. Finkelstein (GP).
 - **January 13, 2024** — First likely Parkinsonian fall (per Conditions entry); details not separately recorded.
 
 ---
@@ -226,8 +229,9 @@ Tracked here because they meaningfully affect mental health, mood, or relationsh
 - How PTSD lens reshapes understanding of morning depression, hyperarousal, anxiety
 - Social Security application — submission date, status, decision; whether to engage a disability attorney
 - Mood/baseline shift if/when financial pressure eases
-- **Report May 24 fall to Dr. Frucht** — PD progression, fall pattern, second documented fall after Jan 13, 2024
-- **Report May 24 fall to Dr. Solarz** — two LOC episodes warrant cardiac syncope workup given stent history
-- Orthostatic BP check at next appointment — Valsartan + Metoprolol + L-dopa stack on top of PD autonomic dysfunction
-- Whether BP meds need adjustment (or midodrine added) if orthostatic hypotension confirmed
-- Monitor for delayed head-injury symptoms (worsening headache, vision changes, confusion, vomiting, drowsiness) — Brilinta + aspirin amplifies bleed risk
+- Cardiac syncope workup from Dr. Solarz — what's planned (EKG, Holter monitor, orthostatic BPs)?
+- Beta blocker replacement plan — whether Dr. Solarz reintroduces a different agent or proceeds without one given orthostatic + depression history
+- Standing/lying BP measurements now that Atenolol is off — has orthostatic resolved?
+- Dr. Furst coordination call with Solarz/Frucht/Finkelstein — outcome and any med adjustments
+- Monitor for delayed head-injury symptoms (worsening headache, vision changes, confusion, vomiting, drowsiness) — Brilinta + aspirin amplifies bleed risk, watch through mid-June
+- Healing of nose/stitches — any infection or revision needed
