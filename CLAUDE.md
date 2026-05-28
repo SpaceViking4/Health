@@ -177,10 +177,19 @@ At the end of any conversation where something notable came up, flag it: "that's
 
 ---
 
+## Life Events & Stressors
+
+Tracked here because they meaningfully affect mental health, mood, or relationship to chronic conditions.
+
+- **Social Security application — May 2026 (planned/initiated)** — Applying to alleviate financial pressure. Relevant because financial stress is a major driver of depression and anxiety; reducing it may shift baseline mood and Gregory's relationship to his physical conditions. Strong case given combined conditions (Parkinson's, heart disease with 4 stents, bipolar, depression, anxiety, hypothyroidism) and extensive multi-specialist documentation (Furst, Frucht, Solarz, Charney). Parkinson's can qualify for **Compassionate Allowances** (faster SSA processing) in some cases. Denials on first application are common; appeals frequently succeed with strong records. Disability attorneys/advocates typically work on contingency (% of back-pay only if approved). Track: application date, status, decision, appeals if needed.
+
+---
+
 ## Recent Significant Changes
 - **Stopped cannabis** — approximately 6 weeks ago (mid-March 2026); relevant to mood given endocannabinoid/dopamine interaction
 - **PTSD working diagnosis (May 2026)** — Dr. Furst raised it May 18; follow-up May 27; trauma counselor referral being set up
 - **Crisis call to Dr. Furst — May 27, 2026** — see Crisis Episodes
+- **Social Security application initiated — May 2026** — see Life Events & Stressors
 
 ---
 
@@ -194,3 +203,5 @@ At the end of any conversation where something notable came up, flag it: "that's
 - Trauma counselor referral — when set up, who, first appointment
 - Any medication adjustments tied to PTSD reframing
 - How PTSD lens reshapes understanding of morning depression, hyperarousal, anxiety
+- Social Security application — submission date, status, decision; whether to engage a disability attorney
+- Mood/baseline shift if/when financial pressure eases
