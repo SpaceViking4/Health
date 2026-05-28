@@ -27,6 +27,7 @@ At the end of any conversation where something notable came up, flag it: "that's
 - **Hypothyroidism** (on Levothyroxine since June 24, 2019)
 - **Restless Leg Syndrome** (ongoing; managed partly with Gabapentin + Magnesium)
 - **High Cholesterol** (on Rosuvastatin)
+- **PTSD** (working diagnosis from Dr. Furst, May 2026; source: childhood abuse by father; trauma counselor referral in progress)
 
 ---
 
@@ -144,8 +145,35 @@ At the end of any conversation where something notable came up, flag it: "that's
 
 ---
 
+## PTSD
+
+### Status
+- **Working diagnosis** from Dr. Furst (psychiatrist)
+- Also being used as a **lens for other symptoms** — mood, hyperarousal, depression, anxiety may be partly trauma-driven rather than purely psychiatric/neurological
+- Still being explored — formal follow-up assessment planned
+
+### Source
+- **Childhood abuse by father**
+
+### Timeline
+- **May 18, 2026** — First raised by Dr. Furst in session
+- **May 27, 2026** — Follow-up call with Dr. Furst (Gregory was doing really bad); she is setting up a referral to a **trauma counselor**
+
+### Next Steps (per Dr. Furst)
+- Trauma-focused therapy referral (in progress)
+- Medication adjustment discussed
+- Follow-up assessment planned
+
+### Clinical Context
+- Childhood trauma is well-documented to produce symptoms that overlap with and can be misdiagnosed as ADHD, bipolar, and depression — all of which are part of Gregory's history. PTSD as an underlying frame may reframe how some symptoms are understood.
+- Hyperarousal, intrusive thoughts, and emotional numbness clusters of PTSD overlap with anxiety, ADHD-like distractibility, and depressive flatness.
+- Morning depression / diurnal mood variation can also be a trauma-related pattern (cortisol dysregulation is common in both melancholic depression and PTSD).
+
+---
+
 ## Recent Significant Changes
 - **Stopped cannabis** — approximately 6 weeks ago (mid-March 2026); relevant to mood given endocannabinoid/dopamine interaction
+- **PTSD working diagnosis (May 2026)** — Dr. Furst raised it May 18; follow-up May 27; trauma counselor referral being set up
 
 ---
 
@@ -156,3 +184,6 @@ At the end of any conversation where something notable came up, flag it: "that's
 - Correlation between Carbidopa-Levodopa dose timing and afternoon mood improvement
 - Whether amantadine effects have fully cleared
 - Whether throat rawness recurs (May 22–23 episode); if so, consider sleep study for OSA given Seroquel/Gabapentin/PD risk factors
+- Trauma counselor referral — when set up, who, first appointment
+- Any medication adjustments tied to PTSD reframing
+- How PTSD lens reshapes understanding of morning depression, hyperarousal, anxiety
