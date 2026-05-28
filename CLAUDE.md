@@ -25,7 +25,7 @@ At the end of any conversation where something notable came up, flag it: "that's
 - **Bipolar Disorder** (long history; currently managed with Lamotrigine + Seroquel)
 - **Heart Disease** — 4 stent operations: (1) 2013, (2) December 2024, (3) December 2025, (4) April 22, 2026 — re-stenting a larger area; 4 days post-op as of today
 - **Hypothyroidism** (on Levothyroxine since June 24, 2019)
-- **Restless Leg Syndrome** (ongoing; managed partly with Gabapentin + Magnesium)
+- **Restless Leg Syndrome** (ongoing; managed partly with Gabapentin; Magnesium stopped ~early Feb 2026)
 - **High Cholesterol** (on Rosuvastatin)
 - **PTSD** (working diagnosis from Dr. Furst, May 2026; source: childhood abuse by father; trauma counselor referral in progress)
 
@@ -174,7 +174,24 @@ At the end of any conversation where something notable came up, flag it: "that's
 
 ## Crisis Episodes
 
-- **May 27, 2026** — Was doing really bad; called Dr. Furst. Outcome: Dr. Furst is setting up a referral to a trauma counselor. Context: 9 days after PTSD was first raised in session (May 18); ~5 weeks post 4th stent operation (April 22).
+- **May 27, 2026** — Was doing really bad; called Dr. Furst. Outcome: Dr. Furst is setting up a referral to a trauma counselor. Context: 9 days after PTSD was first raised in session (May 18); **3 days after the major fall with two LOC episodes (May 24, see Falls & Injuries)**; ~5 weeks post 4th stent operation (April 22).
+
+---
+
+## Falls & Injuries
+
+- **May 24, 2026 (Sunday, ~11am) — major fall episode with two loss-of-consciousness events**
+  - **Mechanism:** Stood up from sitting position; dizziness + Parkinson's foot twisting → first fall onto left side; hit head on left and impacted ribs. Got up. Crawled on all fours. **Passed out again and fell face-first**, hitting face roughly symmetrically.
+  - **Two distinct loss-of-consciousness episodes within one event.**
+  - **Injuries:** broken nose (reset at hospital); 15 stitches across bridge of nose and lower forehead; left-side head impact; left rib impact.
+  - **Hospital evaluation:** went to ER; evaluated for head injury (presumably imaged given Brilinta + aspirin antiplatelet load).
+  - **Clinical concerns to raise with doctors:**
+    - **Syncope, not just balance fall** — two LOC episodes point to orthostatic hypotension and/or cardiogenic syncope, not just PD imbalance. Workup warranted.
+    - **Orthostatic risk stack:** Valsartan (ARB, ↓BP) + Metoprolol (beta blocker, ↓BP, ↓HR) + Carbidopa-Levodopa (known orthostatic side effect) + PD autonomic dysfunction = high cumulative orthostatic load.
+    - **Cardiac syncope** must be considered given 4-stent history, including 4th stent only 32 days prior (April 22, 2026).
+    - **Antiplatelet bleed risk** — Brilinta + aspirin amplifies any head injury; monitor for delayed intracranial bleed symptoms (worsening headache, vision changes, confusion, vomiting, drowsiness).
+  - **NOT YET reported to Dr. Frucht (neurologist) or Dr. Solarz (cardiologist) as of May 28, 2026** — both need to know. Falls in PD are a clinical milestone for Dr. Frucht; syncope + cardiac history is a Dr. Solarz workup conversation.
+- **January 13, 2024** — First likely Parkinsonian fall (per Conditions entry); details not separately recorded.
 
 ---
 
@@ -189,6 +206,7 @@ Tracked here because they meaningfully affect mental health, mood, or relationsh
 ## Recent Significant Changes
 - **Stopped cannabis** — approximately 6 weeks ago (mid-March 2026); relevant to mood given endocannabinoid/dopamine interaction
 - **PTSD working diagnosis (May 2026)** — Dr. Furst raised it May 18; follow-up May 27; trauma counselor referral being set up
+- **Major fall episode — May 24, 2026** — see Falls & Injuries (two LOC events, broken nose, 15 stitches, hospital eval; not yet reported to Frucht/Solarz)
 - **Crisis call to Dr. Furst — May 27, 2026** — see Crisis Episodes
 - **Social Security application initiated — May 2026** — see Life Events & Stressors
 
@@ -208,3 +226,8 @@ Tracked here because they meaningfully affect mental health, mood, or relationsh
 - How PTSD lens reshapes understanding of morning depression, hyperarousal, anxiety
 - Social Security application — submission date, status, decision; whether to engage a disability attorney
 - Mood/baseline shift if/when financial pressure eases
+- **Report May 24 fall to Dr. Frucht** — PD progression, fall pattern, second documented fall after Jan 13, 2024
+- **Report May 24 fall to Dr. Solarz** — two LOC episodes warrant cardiac syncope workup given stent history
+- Orthostatic BP check at next appointment — Valsartan + Metoprolol + L-dopa stack on top of PD autonomic dysfunction
+- Whether BP meds need adjustment (or midodrine added) if orthostatic hypotension confirmed
+- Monitor for delayed head-injury symptoms (worsening headache, vision changes, confusion, vomiting, drowsiness) — Brilinta + aspirin amplifies bleed risk
