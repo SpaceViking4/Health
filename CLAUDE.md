@@ -157,7 +157,7 @@ At the end of any conversation where something notable came up, flag it: "that's
 
 ### Timeline
 - **May 18, 2026** — First raised by Dr. Furst in session
-- **May 27, 2026** — Follow-up call with Dr. Furst (Gregory was doing really bad); she is setting up a referral to a **trauma counselor**
+- **May 27, 2026** — Crisis call to Dr. Furst (see Crisis Episodes); she is setting up a referral to a **trauma counselor**
 
 ### Next Steps (per Dr. Furst)
 - Trauma-focused therapy referral (in progress)
@@ -171,9 +171,16 @@ At the end of any conversation where something notable came up, flag it: "that's
 
 ---
 
+## Crisis Episodes
+
+- **May 27, 2026** — Was doing really bad; called Dr. Furst. Outcome: Dr. Furst is setting up a referral to a trauma counselor. Context: 9 days after PTSD was first raised in session (May 18); ~5 weeks post 4th stent operation (April 22).
+
+---
+
 ## Recent Significant Changes
 - **Stopped cannabis** — approximately 6 weeks ago (mid-March 2026); relevant to mood given endocannabinoid/dopamine interaction
 - **PTSD working diagnosis (May 2026)** — Dr. Furst raised it May 18; follow-up May 27; trauma counselor referral being set up
+- **Crisis call to Dr. Furst — May 27, 2026** — see Crisis Episodes
 
 ---
 
