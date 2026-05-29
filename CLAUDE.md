@@ -27,6 +27,7 @@ At the end of any conversation where something notable came up, flag it: "that's
 - **Hypothyroidism** (on Levothyroxine since June 24, 2019)
 - **Restless Leg Syndrome** (ongoing; managed partly with Gabapentin; Magnesium stopped ~early Feb 2026)
 - **High Cholesterol** (on Rosuvastatin)
+- **ADHD** (diagnosed; treated with Vyvanse starting 2019, stopped Feb 2021; no longer on stimulants)
 - **PTSD** (working diagnosis from Dr. Furst, May 2026; source: childhood abuse by father; trauma counselor referral in progress)
 
 ---
@@ -94,7 +95,7 @@ At the end of any conversation where something notable came up, flag it: "that's
 
 - **2018** — Was on Latuda 40mg + Ativan + Benztropine; stopped Latuda Nov 2018 due to severe restless leg
 - **2018** — Started Vraylar
-- **2019** — Started Levothyroxine (thyroid); started Lithium daily again; started Vyvanse
+- **2019** — Started Levothyroxine (thyroid); started Lithium daily again; started Vyvanse (for ADHD)
 - **2020** — Vraylar titrated up to 6mg daily
 - **2021** — Stopped Vyvanse (Feb); multiple Lithium adjustments; eventually stopped Lithium (Nov 25); stopped Vraylar (Nov 30); started Gabapentin (Dec 1, starting 100mg → titrated up)
 - **2021-2022** — Lamotrigine titrated (peaked around 300mg)
