@@ -36,7 +36,8 @@ https://docs.google.com/spreadsheets/d/1CQZNqxg9ztjEaaE_FbDqWRbz1o41IKiUyCG7hZML
 - **Heart Disease** — 4 stent operations: (1) 2013 (Dr. Charney), (2) December 2024 (Dr. Charney), (3) December 2025 (Dr. Charney), (4) **NSTEMI April 17–21, 2026** — Non-ST Elevated Myocardial Infarction; White Plains Hospital (WPH 4E); admitted April 17 (Thursday), discharged April 21 (Monday); procedures: Left Heart Cath, Coronary Angiography, PCI (stenting), IVUS (intravascular ultrasound); surgeon: Dr. Judah N. Rauch, MD; hospital attending: Dr. Kathryn J Spavento, MD; triggered by chest pain/pressure symptoms; Dr. Solarz described "angry plaque" (unstable/vulnerable atherosclerotic plaque, lipid-rich, prone to rupture — explains the NSTEMI trigger and why Repatha/Brilinta were chosen); Cardiac Rehab referral issued at discharge
 - **Hypothyroidism** (on Levothyroxine since June 24, 2019)
 - **Restless Leg Syndrome** (ongoing; managed partly with Gabapentin; Magnesium stopped ~early Feb 2026)
-- **High Cholesterol** (on Rosuvastatin)
+- **High Cholesterol — Familial Hypercholesterolemia, unspecified type** (diagnosed by Dr. Finkelstein April 28, 2026); genetic form, not just lifestyle/age-related — explains the aggressive lipid management (Repatha, statin); on Rosuvastatin + Repatha
+- **Benign Prostatic Hyperplasia (BPH) with incomplete bladder emptying** (diagnosed by Dr. Finkelstein April 28, 2026) — drives the urology referral and urinary symptoms; renal/bladder US ordered April 28 but not yet done
 - **ADHD** (diagnosed; treated with Vyvanse starting 2019, stopped Feb 2021; no longer on stimulants)
 - **PTSD** (working diagnosis from Dr. Furst, May 2026; source: childhood abuse by father; trauma counselor referral in progress)
 
@@ -59,6 +60,8 @@ https://docs.google.com/spreadsheets/d/1CQZNqxg9ztjEaaE_FbDqWRbz1o41IKiUyCG7hZML
 **No beta blocker currently** — Metoprolol switched to Atenolol at Dr. Solarz visit May 1, 2026 due to depression; Atenolol stopped after May 24 fall due to orthostatic/BP-lowering concern. Awaiting cardiology decision on replacement (if any).
 
 **Note on MyChart duplicate Seroquel entry:** MyChart shows both Seroquel 100mg and Seroquel 400mg (started April 27, 2026) as active. Actual current dose is **100mg PM only**. The 400mg entry is stale and should be cleaned up with Dr. Furst's office.
+
+**Note on Lamotrigine dose discrepancy:** All Montefiore AVS documents show "lamoTRIgine 200mg tablet — Take 150mg by mouth BID" (i.e., 300mg/day). Gregory confirms he actually takes **200mg morning + 200mg evening = 400mg/day** (one full tablet BID). MyChart records need updating with Dr. Furst's office.
 
 ### Noon
 | Medication | Dose | Purpose |
@@ -128,7 +131,7 @@ Prescribed April 16, 2026 by Dr. Solarz. Used 1–2 times since April. **Flag to
 
 - **Cat/Feline Products** — reaction not noted
 - **Penicillins** — unknown reaction; told as child
-- **Toprol XL (Metoprolol Succinate)** — depression; officially added to allergy list during May 2026 hospitalization
+- **Toprol XL (Metoprolol Succinate)** — depression; officially added to allergy list at Dr. Solarz May 1, 2026 office visit
 
 ---
 
@@ -241,7 +244,7 @@ Prescribed April 16, 2026 by Dr. Solarz. Used 1–2 times since April. **Flag to
   - **Treatment during admission:** Telemetry monitoring; IV hydration (dehydration treated); PPI (proton pump inhibitor) therapy; aspirin and Brilinta continued; facial lacerations sutured. Extensive cardiac workup given stent history.
   - **Atenolol:** Was at 12.5mg/day (half of 25mg tablet) at time of hospitalization; discontinued during admission.
   - **Tdap vaccination given** during this admission (May 24, 2026).
-  - **Metoprolol Succinate (Toprol XL) now officially listed as an allergy** — reaction: depression. Added to allergy list during this hospitalization.
+  - **Metoprolol Succinate (Toprol XL) officially listed as an allergy** — reaction: depression. (Correction: added to allergy list at the May 1, 2026 Dr. Solarz visit when the switch from Metoprolol → Atenolol was made, not during this admission — May 1 AVS already shows it on the allergy list.)
   - **Discharge:** May 25 early afternoon. Stop orders: Atenolol, Metamucil, Odorless Garlic, Omega-3/fish oil.
   - **Follow-up ordered:** Dr. Solarz June 12 (completed); ENT (time not specified — not yet tracked); **Urology new patient with Dr. Aaron Hagge-Greenberg, July 7, 2026** (reason for referral unknown — possibly urinary symptoms or related to sexual dysfunction)
   - **Likely contributing cause: Atenolol.** Dr. Solarz had switched him from Metoprolol → Atenolol at the May 1, 2026 office visit (about 3.5 weeks before the fall) to address depression symptoms; Atenolol is a BP-lowering beta blocker and the most likely cardiovascular contributor. The drug was well-established at time of fall, not freshly started. Atenolol has since been stopped.
@@ -278,7 +281,8 @@ Tracked here because they meaningfully affect mental health, mood, or relationsh
 
 ## Urinary Symptoms
 
-- **Dribbling and constant urination** — driving the July 7, 2026 urology referral (Dr. Hagge-Greenberg); reported during May 2026 hospitalization. Clinically: PD autonomic dysfunction is the most likely root cause (detrusor overactivity + incomplete emptying), but several current meds can contribute or amplify symptoms:
+- **Diagnosis: Benign Prostatic Hyperplasia (BPH) with incomplete bladder emptying** — established by Dr. Finkelstein April 28, 2026; this is the structural diagnosis driving the urology referral. Symptoms: dribbling and constant urination.
+- **Likely contributors stacked on top of BPH:** PD autonomic dysfunction (detrusor overactivity + incomplete emptying) and several current meds:
   - **Sertraline** — SSRIs can cause urinary urgency/retention in some patients
   - **Gabapentin** — known to cause urinary frequency and incontinence; common at 600mg+ doses
   - **Seroquel** — anticholinergic effects can worsen retention and incomplete emptying
@@ -302,9 +306,11 @@ Tracked here because they meaningfully affect mental health, mood, or relationsh
 - How PTSD lens reshapes understanding of morning depression, hyperarousal, anxiety
 - Social Security application — submission date, status, decision; whether to engage a disability attorney
 - Mood/baseline shift if/when financial pressure eases
-- Cardiac syncope workup from Dr. Solarz — what's planned (EKG, Holter monitor, orthostatic BPs)?
+- **Cardiac syncope workup IS happening** — Zio Patch XT 8+ day continuous cardiac monitor placed in clinic June 12, 2026 by Dr. Solarz. Looking for arrhythmias that could have caused the May 24 syncope. Results pending; should be available ~mid-to-late June. Track when results come in.
+- **Bladder/renal ultrasound ordered April 28 by Dr. Finkelstein — NOT YET DONE** — should be scheduled before or in conjunction with the June 18 urology visit; ~7 weeks overdue
+- **Lab panel ordered April 28 by Dr. Finkelstein at Quest** — CBC, TSH, HbA1c, PSA Free+Total, Vitamin B12, Vitamin D 1,25 DI OH, Creatine Kinase, Anti-TPO. Status: Gregory unsure if results are in MyChart yet. Check MyChart for results and share with assistant when available — especially PSA (BPH context), TSH (thyroid management), HbA1c (cardiac risk), and Anti-TPO (autoimmune thyroid screen)
 - **Cardiac Rehab referral issued at April 2026 NSTEMI discharge** — ambulatory outpatient program; multiple locations available (Burke/White Plains: 914-597-2802; Montefiore Bronx, Nyack, New Rochelle, Cornwall); did Gregory follow through or schedule?
-- **July 7, 2026 urology appointment — Dr. Aaron Hagge-Greenberg (WPHPA Urology, 122 Maple Ave, White Plains; 914-949-7556)** — referred from May 2026 hospitalization; **purpose: urinary dribbling and constant urination** (per Gregory); not related to sexual dysfunction; clinically consistent with Parkinson's autonomic dysfunction (PD commonly causes urinary urgency, frequency, nocturia, and incomplete emptying via autonomic neuropathy) and/or medication effects; worth flagging at the appointment that Sertraline-induced sexual dysfunction is a separate concern being managed by Dr. Furst
+- **June 18, 2026 (THIS THURSDAY, 9:30 AM) urology appointment — Dr. Aaron Hagge-Greenberg (WPHPA Urology, 122 Maple Ave, 6th Floor, White Plains; 914-949-7556)** — rescheduled earlier from original July 7 date; **purpose: BPH with incomplete bladder emptying** (diagnosed by Finkelstein April 28); urinary dribbling and constant urination; PD autonomic dysfunction is additive on top of BPH; worth flagging at the appointment that Sertraline-induced sexual dysfunction is a separate concern being managed by Dr. Furst; also worth asking about the renal/bladder US that was ordered April 28 but not yet done
 - **ENT follow-up ordered after May fall** — bilateral nasal bone fractures; time not specified; has this been scheduled or done?
 - **Chronic left posterior 6th–8th rib fractures (pre-existing)** — found incidentally on CT chest May 24; hospital instructed to discuss with PCP (Dr. Finkelstein); has this been done? Do you know origin of these fractures?
 - Beta blocker replacement plan — whether Dr. Solarz reintroduces a different agent or proceeds without one given orthostatic + depression history
