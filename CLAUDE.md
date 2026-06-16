@@ -428,6 +428,13 @@ A drop from ~15 g/dL to ~12 g/dL over 2026 on dual antiplatelet therapy (Brilint
 - Hyperarousal, intrusive thoughts, and emotional numbness clusters of PTSD overlap with anxiety, ADHD-like distractibility, and depressive flatness.
 - Morning depression / diurnal mood variation can also be a trauma-related pattern (cortisol dysregulation is common in both melancholic depression and PTSD).
 
+### Assessment: PTSD as Primary Driver (June 16, 2026)
+- **PTSD is likely a primary driver — not just a comorbidity — of Gregory's anxiety and depression.** It is more probable than not that a significant portion of what has been treated as independent mood disorder over the decades is better understood as trauma-organized psychology.
+- Key evidence: (1) childhood abuse by a primary caregiver is among the highest-risk trauma types for complex PTSD; (2) diurnal mood variation, morning numbness/emptiness, anxiety inseparable from depression, and weekends-worse pattern all map cleanly onto PTSD rather than primary mood disorder; (3) the long trail of partial medication responses across multiple diagnoses (Latuda, Vraylar, Lithium, Abilify) is highly consistent with PTSD being misdiagnosed as bipolar disorder — a well-documented pattern in the literature.
+- PTSD does not erase the other diagnoses. Parkinson's adds a real neurological depression component (dopaminergic loss). Lamotrigine's dramatic response suggests genuine mood instability with a biological component. But the trauma may be the organizing root underneath.
+- The trauma counselor referral (Dr. Furst, in progress) may be the most foundational intervention Gregory hasn't had yet — more so than medication adjustment.
+- **Raise with Dr. Furst:** "What's your current thinking on how much of my depression and anxiety history might actually be PTSD?"
+
 ---
 
 ## Crisis Episodes
