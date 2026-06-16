@@ -42,7 +42,7 @@ https://docs.google.com/spreadsheets/d/1CQZNqxg9ztjEaaE_FbDqWRbz1o41IKiUyCG7hZML
   - **(1) 2013** — Dr. Charney
   - **(2) December 23, 2024** — Dr. Charney (WPH); 1 stent: Onyx Frontier 15mm x 3mm (Medtronic)
   - **(3) December 12, 2025** — Dr. Judah N. Rauch, MD (WPH); 4 stents placed: Onyx Frontier L30mm OD3mm, Onyx Frontier L38mm OD3mm, Synergy XD Everolimus L48mm ID3mm (Boston Scientific), Onyx Frontier L38mm OD3mm (Medtronic); treated severe ISR of proximal and distal LCx (both 80%), OM1 90%; IVUS-guided PCI with DCB on proximal LCx + DES on mid-to-distal LCx; VerifyNow PRU 188 on Plavix (borderline — explains switch to stronger Brilinta)
-  - **(4) NSTEMI April 17–21, 2026** — admitted April 17 (Thursday), discharged April 21 (Monday), PCI procedure April 20; WPH 4E; surgeon: Dr. Judah N. Rauch, MD; hospital attending: Dr. Kathryn J Spavento, MD; chest pain onset April 15 (lifting soil); peak troponin 299 ng/L on admission; **2 new stents placed**: DCB on proximal LCx (no stent) + 2 DES on mid-to-distal LCx (ONYX FRONTIER L30mm OD3mm + ONYX FRONTIER L38mm OD3mm); IVUS used; total stent count now **7** across 3 stent procedures (1 Dec 2024 + 4 Dec 2025 + 2 April 2026); triggered by "angry plaque" (unstable/vulnerable atherosclerotic plaque — explains Repatha/Brilinta choice); Cardiac Rehab referral window: April 20 – October 17, 2026
+  - **(4) NSTEMI April 17–21, 2026** — admitted April 17 (Thursday), discharged April 21 (Monday), PCI procedure April 20; WPH 4E; surgeon: Dr. Judah N. Rauch, MD; hospital attending: Dr. Kathryn J Spavento, MD; chest pain onset April 15 (lifting soil); peak troponin 299 ng/L on admission; **2 new stents placed**: DCB on proximal LCx (no stent) + 2 DES on mid-to-distal LCx (ONYX FRONTIER L30mm OD3mm + ONYX FRONTIER L38mm OD3mm); IVUS used; total stent count now **7** across 3 stent procedures (1 Dec 2024 + 4 Dec 2025 + 2 April 2026); triggered by "angry plaque" (unstable/vulnerable atherosclerotic plaque — explains Repatha/Brilinta choice); Cardiac Rehab referral window: expires December 9, 2026 (per June 12 AVS)
   - **CTO of proximal-to-mid RCA** — Chronic Total Occlusion (100% occlusion) of Right Coronary Artery, filling via left-to-right collateral circulation; confirmed on December 2025 cath; Dr. Rauch recommended: "Consider CTO PCI of the RCA (with Anesthesia support) if he has recurrent symptoms." Currently managed conservatively. **Major finding — must be tracked and discussed with Dr. Solarz.**
   - **Mild aortic valve calcification** — found on echo April 20, 2026; new compared to May 2025 echo
   - **Left atrial enlargement (mild, developing)** — LA dimension 4.15 cm (April 2026) vs. 3.6 cm (May 2025)
@@ -85,7 +85,7 @@ https://docs.google.com/spreadsheets/d/1CQZNqxg9ztjEaaE_FbDqWRbz1o41IKiUyCG7hZML
 
 **Note on Lamotrigine dose discrepancy:** All Montefiore AVS documents show "lamoTRIgine 200mg tablet — Take 150mg by mouth BID" (i.e., 300mg/day). Gregory confirms he actually takes **200mg morning + 200mg evening = 400mg/day** (one full tablet BID). MyChart records need updating with Dr. Furst's office.
 
-**Note on Sertraline dose:** MyChart shows 25mg tablet (1 tablet/day = 25mg). Gregory reports actual dose is 50mg. Likely 2 tablets — confirm with Dr. Furst.
+**Note on Sertraline dose:** Confirmed 50mg — one 50mg tablet daily. MyChart record still shows 25mg; needs updating.
 
 ### Noon
 | Medication | Dose | Purpose |
@@ -325,8 +325,10 @@ A drop from ~15 g/dL to ~12 g/dL over 2026 on dual antiplatelet therapy (Brilint
 - **Sleep architecture**: efficiency 73.5% (low), latency 46.9 min (long), REM 26% (normal), N3 22.4% (normal)
 - **Epworth**: 2 (not sleepy during day)
 - **Diagnosis**: Snoring (R06.83). No CPAP needed.
-- **RBD montage was included** — study was ordered with RBD (REM Sleep Behavior Disorder) screening because Dr. Abraham flagged "possible RBD maybe related to PD" at the March 18 consult. **Whether RBD was detected or ruled out by the PSG is not documented in CLAUDE.md — this needs to be reviewed with Dr. Abraham.**
-- **Two items to flag to Dr. Abraham**: (1) Amantadine (stopped Jan/Feb 2026) still in study med list; (2) max HR listed as 255 bpm (almost certainly ECG artifact; actual max during sleep was 83 bpm)
+- **RBD montage was included** — study was ordered with RBD (REM Sleep Behavior Disorder) screening because Dr. Abraham flagged "possible RBD maybe related to PD" at the March 18 consult. **RBD was ruled out by the PSG.** Confirmed at Dr. Abraham tele-visit follow-up.
+- **Minor REM apnea noted** — Dr. Abraham mentioned a very small amount at tele-visit; not clinically significant given overall AHI 0.6.
+- **255 bpm max HR in study report** — confirmed false reading / ECG artifact; actual max HR during sleep was 83 bpm; not clinically significant.
+- **Sleep eating episodes** — essentially resolved; last episode approximately 2–3 months ago (as of June 2026).
 
 ### Sleep Consult — March 18, 2026 (Dr. Abraham)
 - Bedtime 9pm, wake 6am; 1–2 nocturnal arousals; nocturia
@@ -484,46 +486,30 @@ A drop from ~15 g/dL to ~12 g/dL over 2026 on dual antiplatelet therapy (Brilint
 
 ## Open Questions / Things to Track
 
-- **Seroquel dose CONFIRMED at 100mg PM** — MyChart stale 400mg entry needs removal; contact Dr. Furst's office
-- **Sertraline dose** — MyChart shows 25mg tablet (may be 2 tablets); confirm 50mg with Dr. Furst
-- **Lamotrigine dose discrepancy** — MyChart says 150mg BID (300mg/day); actual is 200mg BID (400mg/day); correct with Dr. Furst's office
-- Whether mood/depression is improving since Sertraline 50mg (started May 18); dose escalation planned?
-- Correlation between Carbidopa-Levodopa dose timing and afternoon mood improvement
-- Whether throat rawness recurs — side-sleeping protective (supine AHI 12 vs. non-supine 0.22)
-- Flag two items to Dr. Abraham: stale Amantadine in study med list; 255 bpm max-HR artifact in TIB
-- **RBD results from May 5 sleep study** — PSG included RBD montage; Dr. Abraham flagged "possible RBD maybe related to PD"; were results reviewed? Was RBD confirmed or ruled out? Must follow up.
-- Whether elevated PLMI (45.0) warrants any RLS treatment change
-- Trauma counselor referral — when set up, who, first appointment
-- Any medication adjustments tied to PTSD reframing
-- Social Security application — submission date, status, decision; disability attorney?
-- **Cardiac syncope workup** — Zio Patch XT placed June 12 by Dr. Solarz; results pending ~mid-to-late June. Track when results come in.
-- **CTO of RCA** — conservatively managed; Dr. Rauch: consider CTO PCI if recurrent symptoms. Discuss status with Dr. Solarz July 30.
-- **Bladder/renal ultrasound ordered April 28 by Dr. Finkelstein — NOT YET DONE** — should be addressed before or at urology visit June 18
-- **Quest lab results (April 28)** — CONFIRMED (see Lab Results section). HbA1c 5.9% and Vitamin D 1,25-OH 17 pg/mL are the actionable flags
-- **Prediabetes (HbA1c 5.9%)** — needs explicit follow-up with Dr. Finkelstein; dietary counseling? repeat HbA1c in 3–6 months?
-- **Vitamin D (active form) below range** — supplement dose may need increase; discuss with Dr. Finkelstein or Dr. Frucht
-- **Anemia trend** — Hgb down from 15 to 11.9; iron studies? GI evaluation? discuss with Dr. Solarz (antiplatelet context) and Dr. Finkelstein
-- **Bilateral SNHL** — noted February 2026; audiology evaluation not yet done; mention to Dr. Finkelstein and Dr. Frucht (PD connection)
-- **Adenomatous colon polyp** — next colonoscopy due **April 24, 2027** (calendar this)
-- **Cardiac Rehab** — Gregory attended one appointment April 7, 2026 (pre-NSTEMI, for December 2025 stents); NSTEMI referral window is April 20 – October 17, 2026. Has he enrolled for the current referral?
-- **June 18, 2026 (THIS THURSDAY, 9:30 AM)** — urology appointment with Dr. Aaron Hagge-Greenberg (122 Maple Ave 6th Floor, White Plains; 914-949-7556); purpose: BPH/urinary symptoms; also ask about renal/bladder US
-- **Next cardiology appointment: July 30, 2026** with Dr. Solarz
-- **ENT follow-up** — bilateral nasal bone fractures after May fall; has this been scheduled?
-- **Chronic left posterior 6th–8th rib fractures** — motorcycle accident; PCP follow-up per discharge instructions; has this been discussed with Dr. Finkelstein?
-- **Left clavicle ORIF** — motorcycle accident; CT confirmed plate/screw hardware; no current clinical concern but part of surgical history
-- **Current PCP** — Dr. Jennifer Saad ended April 27, 2026; Dr. Finkelstein acting as GP; is he confirmed as the replacement PCP?
-- Beta blocker replacement plan — whether Dr. Solarz reintroduces a different agent
-- Standing/lying BP measurements now that Atenolol is off — has orthostatic resolved?
-- Dr. Furst coordination call with Solarz/Frucht/Finkelstein — outcome and any med adjustments
-- **Nitroglycerin post-discharge** — used 1–2 times; dates/circumstances not documented; raise with Dr. Solarz
-- **Upper chest/abdominal pain June 3** — noted in mood spreadsheet; not reported to Dr. Solarz; mention at next contact
-- Repatha injection schedule — next dose ~June 30, 2026; every 2 weeks
-- Sinus rinse — continuing? any further improvement?
-- Stool color / bowel regularity — normalized? any recurrence of dark stool (report to Solarz)
-- Cabinet audit — old medications (Valsartan 80mg, Rosuvastatin 40mg, Metoprolol, Atenolol, Plavix, Amantadine, Magnesium Glycinate, Seroquel 400mg, Vitamin E, etc.)
-- Healing of nose/stitches — any infection or revision needed
-- **Sexual dysfunction — raise with Dr. Furst** — loss of libido and anorgasmia, onset ~May 31 (~13 days into Sertraline); most likely SSRI side effect
-- **Cannabis use pattern** — discuss with Dr. Furst; June 7–10 use correlated with sharp mood drop
-- **Sleep eating episodes** — discuss with Dr. Abraham; possible RBD/PD connection; also possible Seroquel effect
-- **QTc monitoring** — track at future ECGs given Seroquel + Sertraline combination; hospitalization values 424–445ms (normal)
-- **Father's cardiac history** — MI at age 56 (Gregory's current age); relevant to aggressive cardiac management rationale
+**ASK AT START OF NEXT SESSION:** Did Dr. Furst contact Dr. Solarz, Dr. Frucht, and Dr. Finkelstein for coordination? Gregory was going to email her to find out (June 16, 2026).
+
+**THURSDAY JUNE 18 APPOINTMENTS:**
+- **9:30 AM** — Urology, Dr. Hagge-Greenberg: BPH/urinary symptoms; raise renal/bladder ultrasound (ordered April 28, not yet done)
+- **3:00 PM** — Dr. Furst: raise sexual dysfunction (loss of libido/anorgasmia since ~May 31, likely SSRI effect); raise cannabis use and possible interference with Sertraline
+
+- **Seroquel 400mg stale MyChart entry** — needs administrative removal by Dr. Furst's office; not urgent
+- **Lamotrigine dose discrepancy** — Dr. Furst aware of actual 200mg BID (400mg/day); MyChart still shows 150mg BID; needs administrative correction
+- **Sertraline efficacy unclear** — not feeling much benefit yet; possibly confounded by intermittent cannabis use; discuss with Dr. Furst June 18
+- **Cannabis use** — intermittent; June 7–10 cluster correlated with sharp mood drop; raise with Dr. Furst June 18
+- **L-dopa / mood timing** — afternoon mood improvement pattern observed in spreadsheet; whether Carbidopa-Levodopa contributes is unclear; worth mentioning to Dr. Frucht
+- **Trauma counselor** — selection in progress; Dr. Furst provided 5 names; Gregory choosing independently
+- **Social Security application** — not yet submitted; track submission date, status, decision
+- **Zio Patch XT cardiac monitor** — placed June 12; needs to be mailed back; results expected late June; track when results come in
+- **CTO of RCA** — conservatively managed; discuss with Dr. Solarz July 30
+- **Bladder/renal ultrasound** — ordered April 28 by Dr. Finkelstein; raise at June 18 urology appointment
+- **Prediabetes (HbA1c 5.9%)** — no follow-up with Dr. Finkelstein yet; dietary counseling and repeat HbA1c in 3–6 months
+- **Vitamin D 1,25-OH below range (17 pg/mL)** — no follow-up yet; discuss with Dr. Finkelstein or Dr. Frucht
+- **Anemia trend** — Hgb down from 15 to 11.9; iron studies and GI evaluation needed; discuss with Dr. Solarz and Dr. Finkelstein
+- **Bilateral SNHL** — noted February 2026; no audiology referral yet; low urgency (no day-to-day symptoms); mention to Dr. Finkelstein and Dr. Frucht
+- **Adenomatous colon polyp** — next colonoscopy due April 24, 2027; **flag in February 2027 session as reminder**
+- **Cardiac Rehab** — enrolling next week (week of June 23); referral window expires December 9, 2026
+- **Next cardiology appointment: July 30, 2026** — agenda: CTO of RCA, anemia trend, nitroglycerin use June 3
+- **Chronic left posterior 6th–8th rib fractures** — one spot still mildly sore on left side; mention to Dr. Finkelstein
+- **Nitroglycerin use June 3** — light chest squeezing (1/10), relieved by nitro; dates/circumstances: June 3, 2026; report to Dr. Solarz July 30
+- **Repatha injection schedule** — first dose June 16; next dose June 30; every 2 weeks thereafter
+- **QTc monitoring** — track at future ECGs; hospitalization values 424–445ms (normal); Seroquel + Sertraline combination warrants ongoing monitoring
