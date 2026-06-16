@@ -276,6 +276,18 @@ Tracked here because they meaningfully affect mental health, mood, or relationsh
 
 ---
 
+## Urinary Symptoms
+
+- **Dribbling and constant urination** — driving the July 7, 2026 urology referral (Dr. Hagge-Greenberg); reported during May 2026 hospitalization. Clinically: PD autonomic dysfunction is the most likely root cause (detrusor overactivity + incomplete emptying), but several current meds can contribute or amplify symptoms:
+  - **Sertraline** — SSRIs can cause urinary urgency/retention in some patients
+  - **Gabapentin** — known to cause urinary frequency and incontinence; common at 600mg+ doses
+  - **Seroquel** — anticholinergic effects can worsen retention and incomplete emptying
+  - **Carbidopa-Levodopa** — variable urinary effects; can both worsen and improve symptoms
+  - **Valsartan** — mild diuretic effect; can increase urination frequency
+- Worth bringing a written list of current meds (or the MyChart med list) to the urology appointment so Dr. Hagge-Greenberg can review for contributing agents.
+
+---
+
 ## Open Questions / Things to Track
 
 - **Seroquel dose CONFIRMED at 100mg PM** — MyChart has stale 400mg entry (started April 27) that needs removal; contact Dr. Furst's office to clean up
@@ -292,7 +304,7 @@ Tracked here because they meaningfully affect mental health, mood, or relationsh
 - Mood/baseline shift if/when financial pressure eases
 - Cardiac syncope workup from Dr. Solarz — what's planned (EKG, Holter monitor, orthostatic BPs)?
 - **Cardiac Rehab referral issued at April 2026 NSTEMI discharge** — ambulatory outpatient program; multiple locations available (Burke/White Plains: 914-597-2802; Montefiore Bronx, Nyack, New Rochelle, Cornwall); did Gregory follow through or schedule?
-- **July 7, 2026 urology appointment — Dr. Aaron Hagge-Greenberg (WPHPA Urology, 122 Maple Ave, White Plains; 914-949-7556)** — referred from May 2026 hospitalization; reason for referral not documented in AVS; possibly urinary symptoms (Parkinson's/med-related) or related to sexual dysfunction; confirm this appointment is still planned
+- **July 7, 2026 urology appointment — Dr. Aaron Hagge-Greenberg (WPHPA Urology, 122 Maple Ave, White Plains; 914-949-7556)** — referred from May 2026 hospitalization; **purpose: urinary dribbling and constant urination** (per Gregory); not related to sexual dysfunction; clinically consistent with Parkinson's autonomic dysfunction (PD commonly causes urinary urgency, frequency, nocturia, and incomplete emptying via autonomic neuropathy) and/or medication effects; worth flagging at the appointment that Sertraline-induced sexual dysfunction is a separate concern being managed by Dr. Furst
 - **ENT follow-up ordered after May fall** — bilateral nasal bone fractures; time not specified; has this been scheduled or done?
 - **Chronic left posterior 6th–8th rib fractures (pre-existing)** — found incidentally on CT chest May 24; hospital instructed to discuss with PCP (Dr. Finkelstein); has this been done? Do you know origin of these fractures?
 - Beta blocker replacement plan — whether Dr. Solarz reintroduces a different agent or proceeds without one given orthostatic + depression history
