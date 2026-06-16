@@ -33,7 +33,7 @@ https://docs.google.com/spreadsheets/d/1CQZNqxg9ztjEaaE_FbDqWRbz1o41IKiUyCG7hZML
 - **Anxiety** (secondary; often co-occurring with depression)
 - **Parkinson's Disease** (diagnosed June 2022; resting tremor right hand/arm was presenting symptom leading to diagnosis; treatment started July 2024; first likely Parkinsonian fall Jan 13, 2024; left-hemisphere dominant pathology)
 - **Bipolar Disorder** (long history; currently managed with Lamotrigine + Seroquel)
-- **Heart Disease** — 4 stent operations: (1) 2013, (2) December 2024, (3) December 2025, (4) April 22, 2026 — re-stenting a larger area; White Plains Hospital; admitted Friday, operated Monday (~3–4 day stay); triggered by chest pain/pressure symptoms; Dr. Solarz described "angry plaque" (unstable/vulnerable atherosclerotic plaque, lipid-rich, prone to rupture — explains both the symptom trigger and why Repatha was later added)
+- **Heart Disease** — 4 stent operations: (1) 2013 (Dr. Charney), (2) December 2024 (Dr. Charney), (3) December 2025 (Dr. Charney), (4) **NSTEMI April 17–21, 2026** — Non-ST Elevated Myocardial Infarction; White Plains Hospital (WPH 4E); admitted April 17 (Thursday), discharged April 21 (Monday); procedures: Left Heart Cath, Coronary Angiography, PCI (stenting), IVUS (intravascular ultrasound); surgeon: Dr. Judah N. Rauch, MD; hospital attending: Dr. Kathryn J Spavento, MD; triggered by chest pain/pressure symptoms; Dr. Solarz described "angry plaque" (unstable/vulnerable atherosclerotic plaque, lipid-rich, prone to rupture — explains the NSTEMI trigger and why Repatha/Brilinta were chosen); Cardiac Rehab referral issued at discharge
 - **Hypothyroidism** (on Levothyroxine since June 24, 2019)
 - **Restless Leg Syndrome** (ongoing; managed partly with Gabapentin; Magnesium stopped ~early Feb 2026)
 - **High Cholesterol** (on Rosuvastatin)
@@ -113,11 +113,22 @@ Prescribed April 16, 2026 by Dr. Solarz. Used 1–2 times since April. **Flag to
 ## Key Doctors
 
 - **Dr. Jennifer Furst** — psychiatrist (manages psych meds; replaced Dr. Latif)
-- **Dr. Charney** — heart surgeon (3 stents)
-- **Dr. Solarz** — cardiologist
+- **Dr. Charney** — cardiac surgeon (stents 1–3: 2013, Dec 2024, Dec 2025)
+- **Dr. Judah N. Rauch, MD** — cardiac surgeon (4th stent / NSTEMI, April 2026, White Plains Hospital)
+- **Dr. Kathryn J Spavento, MD** — hospital attending (NSTEMI admission April 2026)
+- **Dr. Solarz** — cardiologist (primary cardiology follow-up)
 - **Dr. Frucht** — neurologist (Parkinson's)
 - **Dr. Finkelstein** — general practitioner (GP)
+- **Dr. Anthony Awad, MD** — internal medicine attending, White Plains Hospital (fall/syncope admission May 2026)
+- **Dr. Aaron E Hagge-Greenberg** — urologist, WPHPA (new patient appointment July 7, 2026; referral from May hospitalization)
+- **Dr. Ami Abraham, DO** — sleep medicine, White Plains Hospital (polysomnogram May 5, 2026)
 - Therapist (active)
+
+## Allergies
+
+- **Cat/Feline Products** — reaction not noted
+- **Penicillins** — unknown reaction; told as child
+- **Toprol XL (Metoprolol Succinate)** — depression; officially added to allergy list during May 2026 hospitalization
 
 ---
 
@@ -220,11 +231,19 @@ Prescribed April 16, 2026 by Dr. Solarz. Used 1–2 times since April. **Flag to
 
 ## Falls & Injuries
 
-- **May 24, 2026 (Sunday, ~11am) — major fall episode with two loss-of-consciousness events; hospital admission, White Plains Hospital**
+- **May 24, 2026 (Sunday, ~11am) — major fall episode with two loss-of-consciousness events; White Plains Hospital (WPH 5E)**
+  - **Official diagnosis:** Syncope and Collapse; likely orthostatic syncope; **dehydration and poor oral intake cited as contributing factors** alongside Atenolol BP-lowering effect
+  - **Attending physician:** Dr. Anthony Awad, MD (Internal Medicine)
   - **Mechanism:** Stood up from sitting position; dizziness + Parkinson's foot twisting → first fall onto left side; hit head on left and impacted ribs. Got up. Crawled on all fours. **Passed out again and fell face-first**, hitting face roughly symmetrically.
   - **Two distinct loss-of-consciousness episodes within one event.**
-  - **Injuries:** broken nose (reset at hospital; who performed reset not recorded); 15 stitches across bridge of nose and lower forehead; left-side head impact; left rib impact (still mildly sore as of June 2026).
-  - **Hospital course:** ER → admitted, discharged Monday May 25 early afternoon. Extensive cardiac workup performed given stent history. Nose reset and stitches done during admission.
+  - **Injuries:** Acute bilateral nasal bone fractures (both nasal bones); 15 stitches on face (lacerations repaired); left-side head impact; ribs mildly sore as of June 2026.
+  - **CT chest (May 24):** No new rib fractures from this fall; **chronic left posterior 6th–8th rib fractures found incidentally** — pre-existing, cause unknown; needs PCP follow-up per discharge instructions.
+  - **Treatment during admission:** Telemetry monitoring; IV hydration (dehydration treated); PPI (proton pump inhibitor) therapy; aspirin and Brilinta continued; facial lacerations sutured. Extensive cardiac workup given stent history.
+  - **Atenolol:** Was at 12.5mg/day (half of 25mg tablet) at time of hospitalization; discontinued during admission.
+  - **Tdap vaccination given** during this admission (May 24, 2026).
+  - **Metoprolol Succinate (Toprol XL) now officially listed as an allergy** — reaction: depression. Added to allergy list during this hospitalization.
+  - **Discharge:** May 25 early afternoon. Stop orders: Atenolol, Metamucil, Odorless Garlic, Omega-3/fish oil.
+  - **Follow-up ordered:** Dr. Solarz June 12 (completed); ENT (time not specified — not yet tracked); **Urology new patient with Dr. Aaron Hagge-Greenberg, July 7, 2026** (reason for referral unknown — possibly urinary symptoms or related to sexual dysfunction)
   - **Likely contributing cause: Atenolol.** Dr. Solarz had switched him from Metoprolol → Atenolol at the May 1, 2026 office visit (about 3.5 weeks before the fall) to address depression symptoms; Atenolol is a BP-lowering beta blocker and the most likely cardiovascular contributor. The drug was well-established at time of fall, not freshly started. Atenolol has since been stopped.
   - **Orthostatic risk stack at time of fall:** Atenolol (new) + Valsartan (ARB, ↓BP) + Carbidopa-Levodopa (known orthostatic side effect) + PD autonomic dysfunction = high cumulative orthostatic load.
   - **Cardiac syncope** still on the differential given 4-stent history, with the 4th stent only 32 days prior (April 22, 2026). Workup outcome TBD.
@@ -272,6 +291,10 @@ Tracked here because they meaningfully affect mental health, mood, or relationsh
 - Social Security application — submission date, status, decision; whether to engage a disability attorney
 - Mood/baseline shift if/when financial pressure eases
 - Cardiac syncope workup from Dr. Solarz — what's planned (EKG, Holter monitor, orthostatic BPs)?
+- **Cardiac Rehab referral issued at April 2026 NSTEMI discharge** — ambulatory outpatient program; multiple locations available (Burke/White Plains: 914-597-2802; Montefiore Bronx, Nyack, New Rochelle, Cornwall); did Gregory follow through or schedule?
+- **July 7, 2026 urology appointment — Dr. Aaron Hagge-Greenberg (WPHPA Urology, 122 Maple Ave, White Plains; 914-949-7556)** — referred from May 2026 hospitalization; reason for referral not documented in AVS; possibly urinary symptoms (Parkinson's/med-related) or related to sexual dysfunction; confirm this appointment is still planned
+- **ENT follow-up ordered after May fall** — bilateral nasal bone fractures; time not specified; has this been scheduled or done?
+- **Chronic left posterior 6th–8th rib fractures (pre-existing)** — found incidentally on CT chest May 24; hospital instructed to discuss with PCP (Dr. Finkelstein); has this been done? Do you know origin of these fractures?
 - Beta blocker replacement plan — whether Dr. Solarz reintroduces a different agent or proceeds without one given orthostatic + depression history
 - Standing/lying BP measurements now that Atenolol is off — has orthostatic resolved?
 - Dr. Furst coordination call with Solarz/Frucht/Finkelstein — outcome and any med adjustments
