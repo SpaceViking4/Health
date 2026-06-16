@@ -32,20 +32,23 @@ At the end of any conversation where something notable came up, flag it: "that's
 
 ---
 
-## Current Medications (as of May 28, 2026)
+## Current Medications (as of June 16, 2026)
 
 ### Morning — 8am
 | Medication | Dose | Purpose |
 |---|---|---|
 | Ticagrelor (Brilinta) | 90mg | Antiplatelet — heart/stents |
 | Carbidopa-Levodopa | 25mg | Parkinson's |
-| Valsartan | 80mg | Blood pressure / heart |
+| Valsartan | 40mg | Blood pressure / heart |
 | Lamotrigine | 200mg | Mood stabilizer — bipolar/depression |
 | Levothyroxine | 50mcg | Thyroid |
-| Baby Aspirin | — | Heart |
+| Baby Aspirin | 81mg | Heart |
 | Colchicine | 0.6mg | Anti-inflammatory — cardiac |
+| Sertraline (Zoloft) | 50mg | Depression / PTSD (started May 18, 2026; Dr. Furst) |
 
 **No beta blocker currently** — Metoprolol switched to Atenolol at Dr. Solarz visit May 1, 2026 due to depression; Atenolol stopped after May 24 fall due to orthostatic/BP-lowering concern. Awaiting cardiology decision on replacement (if any).
+
+**Note on MyChart duplicate Seroquel entry:** MyChart shows both Seroquel 100mg and Seroquel 400mg (started April 27, 2026) as active. Actual current dose is **100mg PM only**. The 400mg entry is stale and should be cleaned up with Dr. Furst's office.
 
 ### Noon
 | Medication | Dose | Purpose |
@@ -62,10 +65,24 @@ At the end of any conversation where something notable came up, flag it: "that's
 |---|---|---|
 | Ticagrelor (Brilinta) | 90mg | Antiplatelet — heart/stents |
 | Seroquel (Quetiapine) | 100mg | Mood stabilizer — depression/bipolar |
-| Rosuvastatin (Crestor) | 40mg | Cholesterol |
+| Rosuvastatin (Crestor) | 20mg | Cholesterol (reduced from 40mg June 12; Repatha now covers major LDL reduction) |
 | Gabapentin | 600mg (2 capsules) | Restless leg / nerve / anxiety |
 | Lamotrigine | 200mg | Mood stabilizer — bipolar/depression |
 | Vitamin D | 25mcg | Supplement |
+
+### Biweekly Injection
+| Medication | Dose | Purpose |
+|---|---|---|
+| Repatha SureClick (Evolocumab) | 140mg subcutaneous | Cholesterol — PCSK9 inhibitor; major LDL-lowering |
+
+First dose: June 16, 2026. Next dose: ~June 30, 2026. Every 2 weeks thereafter. Prescribed June 12 by Dr. Solarz.
+
+### PRN (As Needed)
+| Medication | Dose | Purpose |
+|---|---|---|
+| Nitroglycerin (Nitrostat) SL | 0.4mg | Chest pain — place under tongue, repeat every 5 min as needed |
+
+Prescribed April 16, 2026 by Dr. Solarz. Used 1–2 times since April. **Flag to Dr. Solarz: dates/circumstances of nitro use need to be documented — any chest pain episode after stent surgery warrants explicit review.**
 
 ### On Hold
 - **Omega-3 fish oil** — may resume
@@ -104,7 +121,7 @@ At the end of any conversation where something notable came up, flag it: "that's
 - **2024** — Started Carbidopa-Levodopa 3x/day (July) — Parkinson's treatment begins
 - **2024** — New stent (Dec); started Clopidogrel
 - **2025** — December stent work; switched to Brilinta
-- **2026** — Rosuvastatin increased to 40mg; Colchicine added (Jan), paused, restarted; Amantadine tried and stopped (caused depression); Metoprolol Succinate 50mg added; 4th stent operation April 22, 2026 (re-stenting larger area); May 1: Metoprolol switched to Atenolol at Solarz visit (depression); late May: Atenolol stopped after May 24 fall (orthostatic concern); currently no beta blocker
+- **2026** — Rosuvastatin increased to 40mg; Colchicine added (Jan), paused, restarted; Amantadine tried and stopped (caused depression); Metoprolol Succinate 50mg added; 4th stent operation April 22, 2026 (re-stenting larger area); Nitroglycerin SL PRN prescribed April 16; May 1: Metoprolol switched to Atenolol at Solarz visit (depression); Sertraline 50mg added May 18 (Dr. Furst, depression/PTSD); late May: Atenolol stopped after May 24 fall (orthostatic concern); currently no beta blocker; June 12 Solarz visit: Valsartan reduced 80→40mg, Rosuvastatin reduced 40→20mg, Repatha (evolocumab) 140mg biweekly added; June 16: first Repatha injection
 
 ---
 
@@ -210,16 +227,19 @@ Tracked here because they meaningfully affect mental health, mood, or relationsh
 ## Recent Significant Changes
 - **Stopped cannabis** — approximately 6 weeks ago (mid-March 2026); relevant to mood given endocannabinoid/dopamine interaction
 - **PTSD working diagnosis (May 2026)** — Dr. Furst raised it May 18; follow-up May 27; trauma counselor referral being set up
+- **Sertraline 50mg started May 18, 2026** — Dr. Furst; morning dose; for depression/PTSD; not previously in memory record (MyChart shows 25mg tablet — may be 2 tablets or dose was titrated; actual dose per Gregory is 50mg)
 - **Major fall episode — May 24, 2026** — see Falls & Injuries (two LOC events, broken nose, 15 stitches, hospital eval; not yet reported to Frucht/Solarz)
 - **Crisis call to Dr. Furst — May 27, 2026** — see Crisis Episodes
 - **Social Security application initiated — May 2026** — see Life Events & Stressors
+- **June 12, 2026 — Dr. Solarz cardiology visit** — Valsartan halved (80→40mg); Rosuvastatin halved (40→20mg); Repatha (evolocumab) 140mg biweekly injection added (PCSK9 inhibitor; Repatha now covering major LDL reduction, hence statin dose reduction); Nitroglycerin SL PRN confirmed ongoing
+- **June 16, 2026 — First Repatha injection today** — biweekly schedule starts; next dose ~June 30
 
 ---
 
 ## Open Questions / Things to Track
 
-- Confirmed new Seroquel dose after recent increase
-- Whether mood/depression is improving since Seroquel increase
+- **Seroquel dose CONFIRMED at 100mg PM** — MyChart has stale 400mg entry (started April 27) that needs removal; contact Dr. Furst's office to clean up
+- Whether mood/depression is improving since Sertraline 50mg was added (started May 18); any dose escalation planned — follow up with Dr. Furst; note MyChart shows 25mg tablet (may be 2 tablets/day)
 - Correlation between Carbidopa-Levodopa dose timing and afternoon mood improvement
 - Whether amantadine effects have fully cleared
 - Whether throat rawness recurs — sleep study (May 5, 2026) ruled out OSA but confirmed snoring (25.1% of sleep) as the likely cause; side-sleeping protective (supine AHI 12 vs. non-supine 0.22)
@@ -234,5 +254,8 @@ Tracked here because they meaningfully affect mental health, mood, or relationsh
 - Beta blocker replacement plan — whether Dr. Solarz reintroduces a different agent or proceeds without one given orthostatic + depression history
 - Standing/lying BP measurements now that Atenolol is off — has orthostatic resolved?
 - Dr. Furst coordination call with Solarz/Frucht/Finkelstein — outcome and any med adjustments
-- Monitor for delayed head-injury symptoms (worsening headache, vision changes, confusion, vomiting, drowsiness) — Brilinta + aspirin amplifies bleed risk, watch through mid-June
+- **Nitroglycerin used 1–2 times since April 16** — confirm Dr. Solarz is aware of the dates and circumstances; chest pain episodes after recent stent surgery need explicit documentation
+- Repatha injection schedule — next dose ~June 30, 2026; track every 2 weeks
+- Cabinet contains leftover bottles (not disposed) — may include old Valsartan 80mg, Rosuvastatin 40mg, Metoprolol, Atenolol, Plavix, Amantadine, Magnesium Glycinate, odorless garlic, possibly Seroquel 400mg; do a cabinet audit when ready
 - Healing of nose/stitches — any infection or revision needed
+- Head-injury delayed symptom window has now passed (mid-June); no escalation noted — close this item unless new symptoms emerge
