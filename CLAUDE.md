@@ -14,6 +14,16 @@ At the end of any conversation where something notable came up, flag it: "that's
 ## Identity
 
 **Gregory Cox**
+**Date of Birth:** November 15, 1969 (age 56)
+
+---
+
+## Mood Tracking Spreadsheet
+
+Live mood log — read at the start of any session involving mood, symptoms, or patterns:
+https://docs.google.com/spreadsheets/d/1CQZNqxg9ztjEaaE_FbDqWRbz1o41IKiUyCG7hZMLjlg/edit
+
+**Read this at the start of every session, regardless of topic.** Use the Google Drive MCP tool to fetch current data (fileId: `1CQZNqxg9ztjEaaE_FbDqWRbz1o41IKiUyCG7hZMLjlg`).
 
 ---
 
@@ -83,6 +93,9 @@ First dose: June 16, 2026. Next dose: ~June 30, 2026. Every 2 weeks thereafter. 
 | Nitroglycerin (Nitrostat) SL | 0.4mg | Chest pain — place under tongue, repeat every 5 min as needed |
 
 Prescribed April 16, 2026 by Dr. Solarz. Used 1–2 times since April. **Flag to Dr. Solarz: dates/circumstances of nitro use need to be documented — any chest pain episode after stent surgery warrants explicit review.**
+
+### Daily Supplements / OTC
+- **Metamucil (psyllium husk)** — fiber supplement; restarted regularly May 21, 2026 after significant constipation episode; take daily
 
 ### On Hold
 - **Omega-3 fish oil** — may resume
@@ -164,6 +177,8 @@ Prescribed April 16, 2026 by Dr. Solarz. Used 1–2 times since April. **Flag to
 - **Nosebleeds (epistaxis) — left nostril only** — frequency increased from ~once every 1.5-2 months to ~once every 1-2 weeks starting early April 2026 (approximately 4 weeks ago as of May 2026); colchicine and metoprolol started ~mid-late April 2026, after the increase began, so are unlikely primary causes; possible contributors include pre-op medication adjustments ahead of April 22 stent operation, or cumulative effect of Brilinta (started Dec 2025) — Brilinta is a stronger antiplatelet than Plavix with higher epistaxis rates; aspirin on top amplifies this. Left-nostril specificity is consistent with PD lateralization: right-hand tremor indicates left-hemisphere dominant PD pathology; left olfactory bulb (ipsilateral) serves left nostril and likely has more Lewy body involvement, contributing to left nasal autonomic dysregulation. Worth mentioning to Dr. Solarz (for the record) and Dr. Frucht (lateralization data point). Not currently worsening — monitor frequency.
 - **Sinus-Parkinson's connection** — research confirms deep nasal sinus cavity has direct anatomical access to the brain via the olfactory nerve (bypasses blood-brain barrier); chronic sinus inflammation causes nasal microbiota dysbiosis similar to that found in PD patients, which triggers neuroinflammation in the olfactory bulb and can accelerate alpha-synuclein misfolding and Lewy body formation; Gregory's ~40 episodes of phantosmia beginning ~age 30 are consistent with olfactory bulb Lewy pathology at Braak Stage 1-2, likely decades before motor symptom onset in 2024; if chronic sinus issues are present, worth mentioning to Dr. Frucht as managing sinus inflammation may reduce ongoing neuroinflammatory burden
 - **Throat rawness on waking — May 22–23, 2026** — described as a "bored hole" feeling at the back of the throat; two consecutive nights, night 2 (May 23) less severe than night 1 (May 22), trending toward resolution. Suspected cause: snoring / mouth-breathing overnight. Has had similar episodes historically but always while sick; not sick this time, and gap since last episode is months-to-years. No active URI symptoms reported. **Apnea/snoring risk factors to consider:** Seroquel (100mg PM) and Gabapentin (600mg PM) both relax upper airway muscles and can worsen snoring/obstructive apnea; Parkinson's itself increases OSA risk via autonomic and pharyngeal muscle tone changes; left-nostril nasal dysregulation (see nosebleeds note) may push toward mouth-breathing. Short-term mitigations: side-sleeping, humidifier, saline nasal spray at bedtime. **Escalate to sleep study conversation with Dr. Frucht or PCP if:** snoring is loud/witnessed, waking gasping/choking, daytime sleepiness worsening, or throat symptom recurs.
+- **Dark stool — May 2026 — MONITOR** — during the constipation episode, stool was notably very dark; in the context of dual antiplatelet therapy (Brilinta + aspirin), dark/tarry stool (melena) can be a sign of upper GI bleeding; constipation alone can darken stool and stopping Metamucil was likely the primary driver — but given the antiplatelet burden, any recurrence of very dark stool should be reported to Dr. Solarz promptly; stool color should normalize with restored Metamucil use
+- **Nasal irrigation (sinus rinse) — started ~early May 2026** — done ~2x/week; pre-rinse baseline: significant chronic congestion (could feel mucus shifting sides when rolling over in bed at night — classic chronic rhinosinusitis, not mild congestion); early results (as of May 21): sleeping somewhat better, less dry saliva in the morning (indicates less mouth breathing, meaning nasal airway is clearing); the sinus rinse contribution to sleep improvement is likely meaningful and not just the Lamotrigine adjustment happening simultaneously; relevant to Parkinson's sinus-neuroinflammation connection (see above)
 - **Sleep study — May 5, 2026** (Dr. Ami Abraham, DO; White Plains Hospital Sleep Disorders Center). **No sleep apnea**: overall AHI 0.6 (CMS) / 1.2 (AASM 1A); 0 obstructive, central, or mixed apneas; 6 hypopneas total; 0 RERAs. **Snoring confirmed**: 23 episodes, 25.1% of sleep time, snoring index 4.7/hr — directly explains the May 22–23 throat-rawness episode (mouth-breathing / pharyngeal vibration drying the throat, no apnea required). **Positional component**: supine AHI 12.0 vs. non-supine 0.22 — but only 25 min (8.6%) spent supine; side-sleeping is clearly protective and should remain the default. **Oxygenation**: average SpO2 93%, min 84% (one brief desaturation), 94.5% of sleep ≥90%. **PLMI 45.0** — significantly elevated (normal <15); 217 periodic limb movements, but only 3 PLM arousals (0.6/hr) — leg movements are not disrupting sleep architecture. Consistent with long RLS history. Sleep doc recommended clinically correlating for restless legs. **Sleep architecture**: sleep efficiency 73.5% (low), sleep latency 46.9 min (long), REM 26% (normal), N3 22.4% (normal). Epworth 2 (not sleepy during the day). **Diagnosis on report**: Snoring (R06.83). **No CPAP needed.** **Two corrections to flag with Dr. Abraham**: (1) study med list still includes Amantadine, which was stopped Jan/Feb 2026; (2) report shows max HR "during recording (TIB)" of 255 bpm — almost certainly ECG artifact since max HR during sleep was only 83 bpm, but worth a sanity check.
 
 ---
@@ -226,6 +241,8 @@ Tracked here because they meaningfully affect mental health, mood, or relationsh
 
 ## Recent Significant Changes
 - **Stopped cannabis** — approximately 6 weeks ago (mid-March 2026); relevant to mood given endocannabinoid/dopamine interaction
+- **Nasal irrigation started ~early May 2026** — sinus rinse ~2x/week; pre-rinse baseline showed severe congestion; early results suggest better sleep and less mouth breathing
+- **Constipation episode — May 2026** — significant episode correlated with lapse in Metamucil; stool was very dark (flag given Brilinta + aspirin); Metamucil restarted May 21, 2026
 - **PTSD working diagnosis (May 2026)** — Dr. Furst raised it May 18; follow-up May 27; trauma counselor referral being set up
 - **Sertraline 50mg started May 18, 2026** — Dr. Furst; morning dose; for depression/PTSD; not previously in memory record (MyChart shows 25mg tablet — may be 2 tablets or dose was titrated; actual dose per Gregory is 50mg)
 - **Major fall episode — May 24, 2026** — see Falls & Injuries (two LOC events, broken nose, 15 stitches, hospital eval; not yet reported to Frucht/Solarz)
@@ -256,6 +273,8 @@ Tracked here because they meaningfully affect mental health, mood, or relationsh
 - Dr. Furst coordination call with Solarz/Frucht/Finkelstein — outcome and any med adjustments
 - **Nitroglycerin used 1–2 times since April 16** — confirm Dr. Solarz is aware of the dates and circumstances; chest pain episodes after recent stent surgery need explicit documentation
 - Repatha injection schedule — next dose ~June 30, 2026; track every 2 weeks
+- Sinus rinse — continuing? frequency? any further sleep or congestion improvement since May 21 early results
+- Stool color / bowel regularity — normalized after Metamucil restart? any recurrence of dark stool (report to Solarz if so)
 - Cabinet contains leftover bottles (not disposed) — may include old Valsartan 80mg, Rosuvastatin 40mg, Metoprolol, Atenolol, Plavix, Amantadine, Magnesium Glycinate, odorless garlic, possibly Seroquel 400mg; do a cabinet audit when ready
 - Healing of nose/stitches — any infection or revision needed
 - Head-injury delayed symptom window has now passed (mid-June); no escalation noted — close this item unless new symptoms emerge
