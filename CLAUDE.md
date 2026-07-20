@@ -392,7 +392,7 @@ A drop from ~15 g/dL to ~12 g/dL over 2026 on dual antiplatelet therapy (Brilint
 - **"Angry plaque"** — Dr. Solarz's characterization; unstable/vulnerable atherosclerotic plaque with lipid-rich core and thin fibrous cap; explains aggressive Repatha/Brilinta strategy
 - **Lamotrigine 200mg increase — strong mood signal** — daily mood average was 3.9 before the increase; jumped to 6.6 within 48 hours of first full BID cycle (Apr 29). Clearest medication response in the dataset. Lamotrigine is working.
 - **Sexual dysfunction — loss of libido and inability to ejaculate (anorgasmia)** — onset ~May 31 (~13 days into Sertraline); most likely SSRI side effect. **Must be raised with Dr. Furst.** Options: dose adjustment, bupropion augmentation, or switch to mirtazapine.
-- **Dark stool — May 2026 — MONITOR** — during constipation episode; dark stool in context of dual antiplatelet therapy could indicate upper GI bleed; Metamucil lapse likely primary driver; any recurrence = report to Dr. Solarz promptly. See also Hemoglobin Trend.
+- **Dark stool — May 2026 — MONITOR — RECURRED July 20, 2026** — first occurred during a constipation/Metamucil-lapse episode in May; recurred again per the July 20, 2026 weekly check-in despite regular Metamucil use this time, which weakens the constipation explanation. Dark stool in context of dual antiplatelet therapy (Brilinta + aspirin) could indicate upper GI bleed. **Report to Dr. Solarz and Dr. Finkelstein promptly — don't wait for the July 30 cardiology visit.** See also Hemoglobin Trend.
 - **Nasal irrigation (sinus rinse) — started ~early May 2026** — ~2x/week; early results: sleeping better, less mouth breathing; relevant to PD sinus-neuroinflammation connection
 - **CTO of RCA — major unresolved cardiac finding** — 100% occlusion of the right coronary artery, managed conservatively. Dr. Rauch's recommendation: consider CTO PCI if recurrent symptoms. Any new chest pain should be interpreted in this context.
 - **Father had MI at age 56** — Gregory is currently 56. Strong familial cardiac risk pattern.
@@ -460,6 +460,7 @@ A drop from ~15 g/dL to ~12 g/dL over 2026 on dual antiplatelet therapy (Brilint
   - **Likely contributing cause: Atenolol.** Orthostatic risk stack: Atenolol + Valsartan + Carbidopa-Levodopa + PD autonomic dysfunction = high cumulative orthostatic load.
   - **Mood impact confirmed by spreadsheet data:** fall on May 24 triggered sustained depression through early June; daily averages 4.4–5.9 for ~10 days. Gregory noted: "I'm very wary of walking because I think I'm going to fall down" (May 31).
 - **January 13, 2024** — First likely Parkinsonian fall; details not separately recorded.
+- **Week of July 20, 2026** — 1 near-fall (caught self), plus new orthostatic dizziness on standing and needing support on ~5% of sit-to-stand transitions. No actual fall. Same orthostatic risk stack as the May 24 fall (Valsartan + Carbidopa-Levodopa + PD autonomic dysfunction), now without a beta blocker. Worth mentioning to Dr. Solarz July 30. See Weekly Health Check-In Log, July 20 entry.
 
 ---
 
@@ -480,6 +481,7 @@ A drop from ~15 g/dL to ~12 g/dL over 2026 on dual antiplatelet therapy (Brilint
 - **Social Security application initiated — May 2026**
 - **June 12, 2026 — Dr. Solarz cardiology visit** — Valsartan halved (80→40mg); Rosuvastatin halved (40→20mg); Repatha added; Zio Patch XT cardiac monitor placed
 - **June 16, 2026 — First Repatha injection; Colchicine restarted**
+- **July 20, 2026 — Weekly structured health check-in process started** — recurring every Saturday (automated), covering A–J categories; see Weekly Health Check-In Log
 
 ---
 
@@ -491,14 +493,38 @@ A drop from ~15 g/dL to ~12 g/dL over 2026 on dual antiplatelet therapy (Brilint
 
 ---
 
+## Weekly Health Check-In Log
+
+Structured recurring check-in (every Saturday, plus ad hoc). Ten categories, A–J: Safety flags, Cardiac, Parkinson's, Mood/Psych, Medication side effects, Bleeding/Anemia, Urinary, Sleep, Orthostatic/Falls risk, Other/open items. Run one category at a time in plain text, log the answers, flag anything concerning immediately. Ask before saving, per the rule at the top of this file.
+
+### July 20, 2026 (baseline check-in)
+- **A. Safety:** No ER visit, no falls, no suicidal ideation. One chest pain episode ~July 16 (see B).
+- **B. Cardiac:** Chest pain 1/10, ~2 min, ~July 16, no nitro used. No SOB, no leg/ankle swelling, no palpitations, no orthopnea, no exertional lightheadedness. Possible weight gain (unconfirmed — no recent scale check). Exercise tolerance untested (not exercising much).
+- **C. Parkinson's:** Resting tremor unchanged. Rigidity slightly worse (right arm — e.g. grabbing door handles). Bradykinesia slightly worse. Mild freezing episodes (delay initiating movement). No falls, 1 near-fall (caught self). **New: dyskinesia — right leg/left arm involuntary jerking, occurred a few times this week, not timed to L-dopa doses.** No dystonia/cramping. Drooling at night only. No swallowing difficulty. Constipation unchanged. Voice/facial expression not assessed. Mild brain fog (possible cannabis confound, per Gregory). Apathy/low motivation present. No phantosmia, no micrographia. No clear wearing-off periods identified.
+- **D. Mood/Psych:** Morning depression steady, slightly improved vs. two weeks prior. Mild anhedonia. No fatigue. Appetite fluctuating. Anxiety/excessive worry present; no panic attacks; no physical anxiety symptoms. No irritability/mood swings; no hypomania signs. Racing thoughts present. PTSD: ~5 intrusive memories this week (trauma content: accident/injury imagery), no nightmares, ~6 hyperarousal/exaggerated startle episodes, no dissociation/emotional numbness, no avoidance behaviors. Cannabis 1x/day; no alcohol.
+- **E. Medication side effects:** Nosebleed (left side) last week (Friday) — see F. Dizziness reported, possibly BPPV ("ear crystals") per Gregory rather than medication-specific — can't fully separate from Valsartan/Lamotrigine. Mild heat intolerance. No other new side effects across active meds. No missed doses, no changes.
+- **F. Bleeding/Anemia:** Nosebleed, left side (consistent with established pattern); none 2 weeks prior. No unusual bruising. **Dark/black stool — recurrence** (see Important Clinical Notes; same pattern flagged May 2026). No blood in stool/urine. Gum bleeding tied to a dental cleaning only, not spontaneous. No unusual fatigue, SOB, dizziness, or pale skin beyond the above.
+- **G. Urinary/BPH:** Dribbling yes, urgency yes, nocturia 1x/night, weak stream/incomplete emptying (unless taking extra time), no straining, no pain/burning. Uncertain whether current BPH management is working.
+- **H. Sleep:** Quality mixed (described as "not okay," then "actually decent" on follow-up). Possible snoring (unconfirmed). No throat rawness, no sleep-eating, no nightmares, no trouble falling asleep (medication-assisted), no early waking, restless legs not disruptive, no daytime sleepiness beyond general fatigue.
+- **I. Orthostatic/Falls risk:** Dizziness/lightheadedness on standing — yes. No vision graying/blackout. 1 near-fall (may be the same event noted in C). No actual fall. Needs to hold onto something on standing ~5% of the time.
+- **J. Other:** Urology follow-up scheduled Wednesday, July 22, 2026 — uncertain whether current BPH medication is working (see G). Recent visit with Dr. Furst — medications kept at current levels, no changes. No test results back yet (Zio Patch, bladder/renal ultrasound).
+
+---
+
 ## Open Questions / Things to Track
 
 **ASK AT START OF NEXT SESSION:** Did Dr. Furst contact Dr. Solarz, Dr. Frucht, and Dr. Finkelstein for coordination? Gregory was going to email her to find out (June 16, 2026).
 
-**THURSDAY JUNE 18 APPOINTMENTS:**
-- **9:30 AM** — Urology, Dr. Hagge-Greenberg: BPH/urinary symptoms; raise renal/bladder ultrasound (ordered April 28, not yet done)
-- **3:00 PM** — Dr. Furst: raise sexual dysfunction (loss of libido/anorgasmia since ~May 31, likely SSRI effect); raise cannabis use and possible interference with Sertraline
+**UPCOMING: WEDNESDAY JULY 22, 2026 — Urology, Dr. Hagge-Greenberg:** BPH/urinary symptoms (dribbling, urgency, weak stream, incomplete emptying all still present per July 20 check-in); raise whether current BPH medication is actually working; confirm status of renal/bladder ultrasound (ordered April 28, 2026).
 
+**Recent Dr. Furst visit (undated, before July 20):** medications kept at current levels, no changes made.
+
+- **Chest pain, ~July 16, 2026** — 1/10 severity, ~2 minutes, no nitro used; report to Dr. Solarz July 30
+- **Dark stool recurrence, July 20, 2026 check-in** — report to Dr. Solarz and Dr. Finkelstein promptly, don't wait for July 30
+- **New dyskinesia — right leg/left arm jerking** (July 20 check-in), not dose-timed; mention to Dr. Frucht
+- **PD symptom progression** — rigidity, bradykinesia, and freezing episodes all slightly worse per July 20 check-in; mention to Dr. Frucht
+- **Orthostatic dizziness + near-fall, July 20 check-in** — needing support on ~5% of sit-to-stand transitions; relevant given May 24 fall history and current no-beta-blocker status; mention to Dr. Solarz July 30
+- **PTSD symptom frequency, July 20 check-in** — ~5 intrusive memories, ~6 hyperarousal/startle episodes in one week; share with Dr. Furst for ongoing PTSD assessment
 - **Seroquel 400mg stale MyChart entry** — needs administrative removal by Dr. Furst's office; not urgent
 - **Lamotrigine dose discrepancy** — Dr. Furst aware of actual 200mg BID (400mg/day); MyChart still shows 150mg BID; needs administrative correction
 - **Sertraline efficacy unclear** — not feeling much benefit yet; possibly confounded by intermittent cannabis use; discuss with Dr. Furst June 18
