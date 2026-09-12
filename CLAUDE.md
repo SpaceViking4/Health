@@ -546,6 +546,8 @@ A drop from ~15 g/dL to ~12 g/dL over 2026 on dual antiplatelet therapy (Brilint
 
 Structured recurring check-in (every Saturday, plus ad hoc). Ten categories, A–J: Safety flags, Cardiac, Parkinson's, Mood/Psych, Medication side effects, Bleeding/Anemia, Urinary, Sleep, Orthostatic/Falls risk, Other/open items. Run one category at a time in plain text, log the answers, flag anything concerning immediately. Ask before saving, per the rule at the top of this file.
 
+**Every check-in, prompt Gregory to check MyChart** (new results, messages, or appointment updates) — fold anything found into category J, or into the specific letter it belongs to if it's more relevant there (e.g. a new lab value under B or F).
+
 ### July 25, 2026 (baseline check-in)
 - **A. Safety:** No ER visit, no falls, no suicidal ideation. One chest pain episode ~July 21 (see B).
 - **B. Cardiac:** Chest pain 1/10, ~2 min, ~July 21, no nitro used. No SOB, no leg/ankle swelling, no palpitations, no orthopnea, no exertional lightheadedness. Possible weight gain (unconfirmed — no recent scale check). Exercise tolerance untested (not exercising much).
