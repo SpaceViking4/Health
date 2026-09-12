@@ -57,7 +57,7 @@ Use the Google Drive MCP tool to fetch current data (fileId: `1CsDOvu8CcF9a-2-hw
   - **Left atrial enlargement (mild, developing)** — LA dimension 4.15 cm (April 2026) vs. 3.6 cm (May 2025)
   - **Ejection Fraction 57%** (April 2026 echo; down slightly from 60% in May 2025 — within normal range)
   - **QTc values on hospitalization ECGs:** 424–445ms (all within normal limits ≤450ms); monitor given Seroquel + Trintellix + Lamotrigine
-  - **Lipoprotein(a) 260 nmol/L (July 30, 2026)** — markedly elevated; reference optimal <75, high >125. More than double the "high" cutoff. Genetic, largely non-modifiable cardiovascular risk factor; highly heritable (worth family screening). Major contributor to the "angry plaque" pattern despite excellent LDL control. **Discuss with Dr. Solarz — implications for management and family screening.**
+  - **Lipoprotein(a) — tracked marker, NOT a new finding (corrected Sept 12, 2026)** — trend: 250 nmol/L (3/5/25) → 315 nmol/L (5/26/26) → **260 nmol/L (7/30/26)**. Reference optimal <75, high >125 — still markedly elevated at >2x the "high" cutoff, but down from its 315 peak. Genetic, largely non-modifiable cardiovascular risk factor; highly heritable (worth family screening). Major contributor to the "angry plaque" pattern despite excellent LDL control. Per Dr. Solarz's 9/15/25 note, he was already waiting on Lp(a)-lowering outcomes studies. **Discuss with Dr. Solarz — implications for management and family screening.**
 - **Hypothyroidism** (on Levothyroxine since June 24, 2019)
 - **Restless Leg Syndrome** (ongoing; managed partly with Gabapentin; Magnesium stopped ~early Feb 2026)
 - **High Cholesterol — Familial Hypercholesterolemia, unspecified type** (diagnosed by Dr. Finkelstein April 28, 2026); genetic form — explains aggressive lipid management (Repatha, statin); on Rosuvastatin + Repatha
@@ -157,7 +157,7 @@ Prescribed April 16, 2026 by Dr. Solarz. In-hospital uses during NSTEMI: April 1
 - **Dr. Charney** — cardiac surgeon (stents 1–2: 2013, Dec 2024)
 - **Dr. Judah N. Rauch, MD** — cardiac surgeon (stents Dec 2025 and April 2026 NSTEMI, White Plains Hospital)
 - **Dr. Kathryn J Spavento, MD** — hospital attending (NSTEMI admission April 2026)
-- **Dr. Solarz** — cardiologist (primary cardiology follow-up); July 30, 2026 visit completed (labs drawn: Lp(a), HbA1c, Lipid Panel, CMP, Aldolase, CK, ECG — see Lab Results); next appointment not yet confirmed — Gregory recalls the visit happened but is unsure whether CTO of RCA / beta blocker replacement were directly discussed
+- **Dr. Solarz** — cardiologist (primary cardiology follow-up); July 30, 2026 visit completed (labs drawn: Lp(a), HbA1c, Lipid Panel, CMP, Aldolase, CK, ECG — see Lab Results); per the actual clinical note (confirmed Sept 12, 2026), **CTO of RCA and beta blocker replacement were NOT discussed at 7/30/26** — plan just continued the existing regimen; note says "follow up in 3 months" (~late October 2026) — appointment still needs to be booked/confirmed
 - **Dr. Frucht** — neurologist (Parkinson's)
 - **Dr. Finkelstein** — general practitioner (GP; likely current PCP replacing Dr. Saad who ended April 27, 2026 — confirm)
 - **Dr. Jennifer Saad, DO** — prior PCP (Family Medicine, 600 Mamaroneck Ave Suite 200, Harrison NY; 914-723-8100); care ended April 27, 2026
@@ -204,7 +204,7 @@ Prescribed April 16, 2026 by Dr. Solarz. In-hospital uses during NSTEMI: April 1
 - **2023** — Off Abilify (Feb 1); Lamotrigine tapered back down to 150mg (April); Seroquel peaked at 150mg (April), then back to 100mg (Oct); diagnostic cardiac cath June 20, 2023 (Dr. Bliagos)
 - **2024** — Started Carbidopa-Levodopa 3x/day (July) — Parkinson's treatment begins; new stent Dec 23, 2024 (Dr. Charney); started Clopidogrel
 - **2025** — December 12, 2025: 4 stents (Dr. Rauch); switched to Brilinta; VerifyNow PRU 188 on Plavix (borderline — drove switch); Meclizine PRN started 11/21/2025 for dizziness
-- **2026** — Rosuvastatin increased to 40mg; Colchicine added (Jan), paused, restarted May 12, discontinued, **restarted June 16**; Amantadine tried and stopped (caused depression); Metoprolol Succinate 50mg added; NSTEMI April 17–21 (PCI April 20); Nitroglycerin SL PRN prescribed April 16; May 1: Metoprolol switched to Atenolol at Solarz visit (depression); Sertraline 50mg added May 18 (Dr. Furst, depression/PTSD); Meclizine discontinued at April 21 discharge; Vitamin E discontinued at April 21 discharge; late May: Atenolol stopped after May 24 fall (orthostatic concern); currently no beta blocker; June 12 Solarz visit: Valsartan reduced 80→40mg, Rosuvastatin reduced 40→20mg (later confirmed actually 10mg), Repatha (evolocumab) 140mg biweekly added; June 16: first Repatha injection; **~June 23: Sertraline replaced by Trintellix (Vortioxetine) 10mg** (Dr. Furst); **~July 21: Mirabegron started for BPH/OAB, titrated 25→50mg** (Dr. Hagge-Greenberg); July 30 Solarz visit: labs drawn (Lp(a) 260 — new major finding; HbA1c normalized to 5.2%; excellent lipid panel; QTc 437ms normal); week of June 23: enrolled in Cardiac Rehab, attending 2x/week; late August: started EMDR with trauma counselor (Dr. Furst referral)
+- **2026** — Rosuvastatin increased to 40mg; Colchicine added (Jan), paused, restarted May 12, discontinued, **restarted June 16**; Amantadine tried and stopped (caused depression); Metoprolol Succinate 50mg added; NSTEMI April 17–21 (PCI April 20); Nitroglycerin SL PRN prescribed April 16; May 1: Metoprolol switched to Atenolol at Solarz visit (depression); Sertraline 50mg added May 18 (Dr. Furst, depression/PTSD); Meclizine discontinued at April 21 discharge; Vitamin E discontinued at April 21 discharge; late May: Atenolol stopped after May 24 fall (orthostatic concern); currently no beta blocker; June 12 Solarz visit: Valsartan reduced 80→40mg, Rosuvastatin reduced 40→20mg (later confirmed actually 10mg), Repatha (evolocumab) 140mg biweekly added; June 16: first Repatha injection; **~June 23: Sertraline replaced by Trintellix (Vortioxetine) 10mg** (Dr. Furst); **~July 21: Mirabegron started for BPH/OAB, titrated 25→50mg** (Dr. Hagge-Greenberg); July 30 Solarz visit: labs drawn (Lp(a) 260, a tracked marker down from a 315 peak in May — not new; HbA1c normalized to 5.2%; excellent lipid panel; QTc 437ms normal); week of June 23: enrolled in Cardiac Rehab, attending 2x/week; late August: started EMDR with trauma counselor (Dr. Furst referral)
 
 ---
 
@@ -227,7 +227,7 @@ Prescribed April 16, 2026 by Dr. Solarz. In-hospital uses during NSTEMI: April 1
 CMP, Aldolase, and Creatine Kinase were also ordered same visit; values not yet reviewed. No CBC was ordered at this visit — hemoglobin/anemia trend still not rechecked since May 25, 2026.
 
 **Key flags:**
-- **Lipoprotein(a) 260 nmol/L** — major new finding. Genetic, non-modifiable cardiovascular risk factor; helps explain the aggressive CAD course independent of LDL (which is now excellently controlled). Heritable — worth mentioning for family screening. Top item to discuss with Dr. Solarz.
+- **Lipoprotein(a) 260 nmol/L** — a tracked marker, not new (see Conditions for the 250→315→260 trend). Genetic, non-modifiable cardiovascular risk factor; helps explain the aggressive CAD course independent of LDL (which is now excellently controlled). Heritable — worth mentioning for family screening. Top item to discuss with Dr. Solarz.
 - **Lipid panel response is excellent** — LDL 28 achieved on just 10mg Rosuvastatin + Repatha, well under the <55 goal. The "angry plaque" treatment strategy is working as intended on the modifiable side.
 - **HbA1c normalized** — 5.2%, likely confirming the April reading was stress hyperglycemia from the NSTEMI hospitalization rather than persistent prediabetes.
 
@@ -266,7 +266,7 @@ CMP, Aldolase, and Creatine Kinase were also ordered same visit; values not yet 
 
 A drop from ~15 g/dL to ~12 g/dL over 2026 on dual antiplatelet therapy (Brilinta + aspirin). Likely multifactorial: GI microbleeding, cumulative epistaxis losses, iron deficiency. The dark stool episode (May 2026) is relevant. **Must be discussed with Dr. Solarz and Dr. Finkelstein.** May warrant iron studies and GI evaluation.
 
-**Still overdue as of Sept 5, 2026:** no CBC has been drawn since May 25 (not included in the July 30 labs) — over 3 months without a recheck. Nosebleed frequency has since improved (down to 2 in 6 weeks) and dark stool has not recurred, which is reassuring, but a recheck is still warranted given the history.
+**Still overdue as of Sept 12, 2026:** no CBC found on file as of the July 30, 2026 Solarz visit printout ("No results found for: CBC") — confirms none has been drawn since May 25, now over 3.5 months. Gregory recalled possibly having a CBC "about a month ago" but this is not corroborated by the records reviewed so far — worth confirming directly in MyChart. Nosebleed frequency remains improved, but **dark stool recurred again Sept 12, 2026** (see Important Clinical Notes) — this raises the urgency of the recheck.
 
 ### April 17–20, 2026 — NSTEMI Hospitalization Labs
 
@@ -363,7 +363,7 @@ A drop from ~15 g/dL to ~12 g/dL over 2026 on dual antiplatelet therapy (Brilint
 - **RBD montage was included** — study was ordered with RBD (REM Sleep Behavior Disorder) screening because Dr. Abraham flagged "possible RBD maybe related to PD" at the March 18 consult. **RBD was ruled out by the PSG.** Confirmed at Dr. Abraham tele-visit follow-up.
 - **Minor REM apnea noted** — Dr. Abraham mentioned a very small amount at tele-visit; not clinically significant given overall AHI 0.6.
 - **255 bpm max HR in study report** — confirmed false reading / ECG artifact; actual max HR during sleep was 83 bpm; not clinically significant.
-- **Sleep eating episodes** — had been essentially resolved (last episode ~2–3 months prior, as of June 2026), but **recurred in the week of Sept 5, 2026** — a few episodes after a long quiet stretch. Since RBD was already ruled out by this PSG, the recurrence is more likely a Seroquel/PD-related parasomnia flare than new RBD. Worth mentioning to Dr. Furst or Dr. Frucht.
+- **Sleep eating episodes** — had been essentially resolved (last episode ~2–3 months prior, as of June 2026), but **recurred in the week of Sept 5, 2026** for about 4 days in a row, then stopped again (confirmed Sept 12, 2026 check-in). Since RBD was already ruled out by this PSG, the recurrence is more likely a Seroquel/PD-related parasomnia flare than new RBD. Worth mentioning to Dr. Furst or Dr. Frucht.
 
 ### Sleep Consult — March 18, 2026 (Dr. Abraham)
 - Bedtime 9pm, wake 6am; 1–2 nocturnal arousals; nocturia
@@ -427,8 +427,10 @@ A drop from ~15 g/dL to ~12 g/dL over 2026 on dual antiplatelet therapy (Brilint
 - **"Angry plaque"** — Dr. Solarz's characterization; unstable/vulnerable atherosclerotic plaque with lipid-rich core and thin fibrous cap; explains aggressive Repatha/Brilinta strategy
 - **Lamotrigine 200mg increase — strong mood signal** — daily mood average was 3.9 before the increase; jumped to 6.6 within 48 hours of first full BID cycle (Apr 29). Clearest medication response in the dataset. Lamotrigine is working.
 - **Sexual dysfunction — loss of libido and inability to ejaculate (anorgasmia)** — onset ~May 31 (~13 days into Sertraline); originally attributed to Sertraline as an SSRI side effect. **Did not resolve after switching to Trintellix (Vortioxetine) ~June 23** — confirmed still present as of Sept 5, 2026. This is notable since vortioxetine typically has a low rate of sexual side effects; may implicate Seroquel or Gabapentin instead, or a non-medication factor. **Raise with Dr. Furst.**
-- **Dark stool — May 2026, recurred July 25, 2026 — RESOLVED as of Sept 5, 2026 check-in** — no recurrence reported since July 25. Was in context of dual antiplatelet therapy (Brilinta + aspirin); no longer an active flag, but relevant history if it recurs again. See also Hemoglobin Trend.
-- **Lipoprotein(a) 260 nmol/L (July 30, 2026)** — see Conditions and Lab Results. Major genetic CV risk factor discovered; largely explains the aggressiveness of the CAD course independent of the (now excellently controlled) LDL.
+- **Dark stool — May 2026, recurred July 25, 2026, marked resolved Sept 5, 2026 — RECURRED AGAIN Sept 12, 2026.** Was in context of dual antiplatelet therapy (Brilinta + aspirin). Reopened as an active flag given the pattern of recurrence; increases urgency of the overdue CBC/anemia recheck. See also Hemoglobin Trend.
+- **Lipoprotein(a)** — see Conditions and Lab Results. Tracked genetic CV risk factor (250→315→260 nmol/L trend), not a one-time new finding; largely explains the aggressiveness of the CAD course independent of the (now excellently controlled) LDL.
+- **New irritability/anger episodes during gaming with Steve (Sept 12, 2026 check-in)** — Gregory reports losing his temper during verbal mix-ups in gaming sessions, contributing (along with mild anhedonia) to reduced desire to game. Worth mentioning to Dr. Furst.
+- **Cannabis use escalation + new anxiety about being unable to quit (Sept 12, 2026)** — use increased to ~4x/day on weekends (up from ~2x/day as of Sept 5); Gregory also reported slight anxiety attacks specifically about not being able to quit/reduce use. Distinct from simple increased use — raise with Dr. Furst.
 - **Nasal irrigation (sinus rinse) — started ~early May 2026** — ~2x/week; early results: sleeping better, less mouth breathing; relevant to PD sinus-neuroinflammation connection
 - **CTO of RCA — major unresolved cardiac finding** — 100% occlusion of the right coronary artery, managed conservatively. Dr. Rauch's recommendation: consider CTO PCI if recurrent symptoms. Any new chest pain should be interpreted in this context.
 - **Father had MI at age 56** — Gregory is currently 56. Strong familial cardiac risk pattern.
@@ -463,6 +465,8 @@ A drop from ~15 g/dL to ~12 g/dL over 2026 on dual antiplatelet therapy (Brilint
 - Found a trauma counselor ("Alice") from Dr. Furst's list of 5 referrals
 - As of Sept 5, 2026: on the **5th EMDR session**
 - Gregory's impressions: initially felt "goofy"/uncertain (wondered about placebo effect), found it hard to follow the finger movements at first, improved with practice; some sense of reduction noted; feels contemplative afterward; no father-related dreams reported
+- **Sept 11, 2026 (mood spreadsheet):** Gregory noted his mood/behavior have been changing since his first EMDR session — researched this online and found it lines up with what he's experiencing (some sad, some good, some anxious, some mellowing).
+- **Sept 12, 2026:** unusual fatigue that started with his first EMDR session, which Gregory attributes to the EMDR itself. Also had a conversation with Janice about PTSD — she is now looking into it for herself.
 
 ### Clinical Context
 - Childhood trauma is well-documented to produce symptoms that overlap with and can be misdiagnosed as ADHD, bipolar, and depression — all of which are part of Gregory's history. PTSD as an underlying frame may reframe how some symptoms are understood.
@@ -527,9 +531,10 @@ A drop from ~15 g/dL to ~12 g/dL over 2026 on dual antiplatelet therapy (Brilint
 - **~June 23, 2026 — Sertraline replaced by Trintellix (Vortioxetine) 10mg** (Dr. Furst) — anorgasmia persisted despite the switch
 - **~July 21, 2026 — Mirabegron started for BPH/OAB**, titrated 25→50mg (Dr. Hagge-Greenberg)
 - **Week of June 23, 2026 — Enrolled in Cardiac Rehab**, attending 2x/week as of Sept 5, 2026; going well, no heart conditions surfaced, more energy day after sessions
-- **July 30, 2026 — Dr. Solarz visit completed** — Lipoprotein(a) 260 nmol/L discovered (major new CV risk finding); HbA1c normalized to 5.2%; excellent lipid panel (LDL 28); QTc 437ms normal
+- **July 30, 2026 — Dr. Solarz visit completed** — Lipoprotein(a) 260 nmol/L (tracked marker, down from 315 peak in May 2026 — see Sept 12 correction below); HbA1c normalized to 5.2%; excellent lipid panel (LDL 28); QTc 437ms normal
 - **Late August 2026 — Started EMDR** with trauma counselor "Alice" (Dr. Furst referral); 5th session as of Sept 5, 2026
 - **Sept 5, 2026 — Six-week weekly check-in gap closed** — Saturdays Aug 1, 8, 15, 22, 29 fired automatically with no live user present and went unanswered; full check-in completed Sept 5 covering the whole span since July 25
+- **Sept 12, 2026 — Weekly check-in + records correction** — full A–J check-in completed (see log); reviewed the actual July 30, 2026 Solarz clinical note (via uploaded MyChart PDFs), which corrected the Lp(a) framing from "new finding" to a tracked trend (250→315→260 nmol/L) and confirmed CTO of RCA / beta blocker were NOT discussed at that visit. Dark stool recurred again. Cannabis use up to ~4x/day weekends with new anxiety about quitting. New gaming-related irritability noted.
 
 ---
 
@@ -538,7 +543,9 @@ A drop from ~15 g/dL to ~12 g/dL over 2026 on dual antiplatelet therapy (Brilint
 - **Diagnosis: Benign Prostatic Hyperplasia (BPH) with incomplete bladder emptying** — on problem list since 3/4/2021; re-addressed April 28, 2026 by Dr. Finkelstein; nocturia predates 2026. Symptoms: dribbling, constant urination, nocturia.
 - **Likely contributors:** PD autonomic dysfunction + Trintellix (urinary urgency/retention, similar profile to Sertraline) + Gabapentin (frequency/incontinence at 600mg+) + Seroquel (anticholinergic, worsens retention) + Carbidopa-Levodopa (variable) + Valsartan (mild diuretic)
 - **Mirabegron started ~July 21, 2026** (titrated 25→50mg) for overactive bladder/BPH (Dr. Hagge-Greenberg). As of Sept 5, 2026 check-in: dribbling, urgency, and weak stream all somewhat improved; incomplete emptying and high daytime frequency persist. Gregory's assessment: "helping, but not that much."
-- Bladder/renal ultrasound (ordered April 28, 2026) still not done as of Sept 5, 2026.
+- **Sept 12, 2026 check-in — further improvement:** dribbling still present but better controlled; urgency notably down; no nocturia; no weak stream. Best report yet on Mirabegron.
+- Bladder/renal ultrasound (ordered April 28, 2026) still not done as of Sept 12, 2026.
+- **Urology frequency tracking (mood spreadsheet Urology tab) stopped by Gregory** as of early Sept 2026 — the near-zero entries since are a tracking lapse, not a symptom improvement.
 
 ---
 
@@ -572,21 +579,33 @@ Structured recurring check-in (every Saturday, plus ad hoc). Ten categories, A�
 - **I. Orthostatic/Falls risk:** Dizziness on standing ~3 times over 6 weeks (improved vs. July 25's ~5% of transitions). No vision graying/blackout. No near-falls beyond the (already-documented, not new) nose fall. Holds onto something "a few times." **New pattern: needs help standing up after lying flat for Repatha injections.**
 - **J. Other:** Zio Patch (resulted July 3) — no heart issues, per Gregory (hasn't reviewed full report detail). **Cardiac Rehab: enrolled, attending 2x/week, going well**, more energy the day after sessions. Social Security application still not submitted. Trauma counselor found, EMDR underway (see D). Bladder/renal ultrasound (ordered April 28) still not done. Confirmed July 30, 2026 Meds Schedule Doc as an authoritative source going forward.
 
+### September 12, 2026
+- **A. Safety:** No ER visits, no falls, no suicidal ideation, no chest pain.
+- **B. Cardiac:** No SOB, no leg/ankle swelling, no palpitations, no nitro use.
+- **C. Parkinson's:** Tremor a touch worse. Right-arm rigidity present. No bradykinesia. Possible freezing sensation, unconfirmed/placebo per Gregory. Dyskinesia (right arm) now ~1x/2 weeks (down from ~2x/month). No falls/near-falls. Drooling/constipation unchanged.
+- **D. Mood/Psych:** Morning depression a bit improved, possibly EMDR-related (uncertain). Mild anhedonia — reduced interest in gaming/TV. **New: irritability/anger episodes during gaming with Steve**, contributing to reduced desire to game. Anxiety present. PTSD symptoms present (hyperarousal confirmed as a lifelong baseline trait). **Cannabis use up further to ~4x/day on weekends** (from ~2x/day), plus new anxiety specifically about being unable to quit. Alcohol once last week during gaming.
+- **E. Medication side effects:** Mild sedation (attributed to gabapentin/quetiapine). No dizziness, no GI upset. Anorgasmia persists — only relief noted when high. No missed doses.
+- **F. Bleeding/Anemia:** **Dark stool recurred** (previously marked resolved Sept 5 — reopened as a flag). Fatigue since first EMDR session, which Gregory attributes to EMDR rather than anemia. No CBC found on file per the July 30 Solarz visit records reviewed this session — still overdue since May 25.
+- **G. Urinary/BPH:** Best report yet on Mirabegron — dribbling present but better controlled, urgency notably down, no nocturia, no weak stream. Urology frequency spreadsheet tracking has been stopped by Gregory (not a symptom change).
+- **H. Sleep:** No major issues. Occasional night sweats. No nightmares. Sleep-eating recurred ~4 days then stopped again. No falling/staying-asleep trouble (attributed to quetiapine/gabapentin).
+- **I. Orthostatic/Falls risk:** No dizziness, no near-falls, no support needed generally — except still needing help standing up after lying flat for Repatha injections (ongoing pattern, first noted Sept 5).
+- **J. Other:** Reviewed 4 MyChart PDFs of the July 30, 2026 Solarz visit — confirmed no CBC on file, corrected the Lp(a) "new finding" framing to a tracked trend (250→315→260), and confirmed the CTO of RCA and beta blocker decision were NOT discussed at that visit (note says "follow up in 3 months," appointment not yet booked). Nothing else new in MyChart. Social Security application still not submitted.
+
 ---
 
 ## Open Questions / Things to Track
 
 **ASK AT START OF NEXT SESSION:** Did Dr. Furst contact Dr. Solarz, Dr. Frucht, and Dr. Finkelstein for coordination? Gregory was going to email her to find out (June 16, 2026) — still unconfirmed.
 
-**TOP PRIORITY — Lipoprotein(a) 260 nmol/L (found July 30, 2026):** Major new genetic cardiovascular risk finding, more than 2x the "high" cutoff. Discuss implications and family screening with Dr. Solarz at next appointment.
+**TOP PRIORITY — Lipoprotein(a) elevated (250→315→260 nmol/L, 3/5/25→5/26/26→7/30/26):** Major genetic cardiovascular risk factor, more than 2x the "high" cutoff — a tracked marker, not a one-time new finding (corrected Sept 12, 2026). Discuss implications and family screening with Dr. Solarz at next appointment.
 
-**Next Dr. Solarz appointment: not yet scheduled/confirmed** — the July 30, 2026 visit happened, but Gregory is unsure whether the CTO of RCA or beta blocker replacement were directly discussed. Confirm next appointment date; agenda: Lp(a) finding, CTO of RCA, anemia recheck, orthostatic pattern with Repatha injections, beta blocker decision.
+**Next Dr. Solarz appointment: not yet scheduled/confirmed** — the July 30, 2026 visit happened, and it's now confirmed from the clinical note that the CTO of RCA and beta blocker replacement were NOT discussed; the note says "follow up in 3 months" (~late October 2026). Book/confirm that appointment; agenda: Lp(a) trend, CTO of RCA, anemia recheck (now more urgent given the Sept 12 dark stool recurrence), orthostatic pattern with Repatha injections, beta blocker decision.
 
-- **Anemia recheck overdue** — no CBC since May 25, 2026 (11.9 g/dL); not included in July 30 labs; over 3 months without a recheck. Nosebleeds improved and dark stool resolved, but still worth rechecking given history. Discuss with Dr. Solarz and Dr. Finkelstein.
+- **Anemia recheck overdue** — no CBC since May 25, 2026 (11.9 g/dL); none found on file as of the July 30 visit records. Over 3.5 months without a recheck, and **dark stool recurred again Sept 12, 2026** — raises the urgency. Discuss with Dr. Solarz and Dr. Finkelstein.
 - **ENT referral still not booked** — outstanding since the May 24, 2026 fall; supported by ongoing nasal breathing difficulty/mouth-breathing/drooling since the fracture.
 - **Anorgasmia persists despite Trintellix switch** (~June 23) — unusual given vortioxetine's typically low sexual side-effect rate; raise with Dr. Furst.
 - **Sleep-eating recurrence (week of Sept 5, 2026)** — after ~2-3 months quiet; mention to Dr. Furst or Dr. Frucht (Seroquel/PD parasomnia link; RBD already ruled out).
-- **New dyskinesia — right leg/left arm jerking** — ongoing, now ~2x/month, not dose-timed; mention to Dr. Frucht.
+- **New dyskinesia — right leg/left arm jerking** — ongoing; frequency ~1x/2 weeks as of Sept 12, 2026 (down from ~2x/month at Sept 5), not dose-timed; mention to Dr. Frucht.
 - **PD symptom progression** — mild right-arm rigidity and bradykinesia increase per Sept 5 check-in; mention to Dr. Frucht. Tremor notably improved since stopping coffee (~mid-July) — worth mentioning too.
 - **Orthostatic pattern — needs help standing after Repatha injections** (lying flat for the shot); relevant given May 24 fall history and current no-beta-blocker status; mention to Dr. Solarz.
 - **Bladder/renal ultrasound** — ordered April 28 by Dr. Finkelstein; still not done as of Sept 5, 2026.
@@ -594,7 +613,8 @@ Structured recurring check-in (every Saturday, plus ad hoc). Ten categories, A�
 - **Seroquel 400mg stale MyChart entry** — needs administrative removal by Dr. Furst's office; not urgent.
 - **Lamotrigine dose discrepancy** — Dr. Furst aware of actual 200mg BID (400mg/day); MyChart still shows 150mg BID; needs administrative correction.
 - **Trintellix/Sertraline MyChart update** — MyChart may still show Sertraline as active; needs administrative correction with Dr. Furst's office.
-- **Cannabis use increased to ~2x/day** over the past 6 weeks (up from intermittent); raise with Dr. Furst given interactions with Seroquel, Trintellix, Gabapentin.
+- **Cannabis use increased further to ~4x/day on weekends** as of Sept 12, 2026 (up from ~2x/day at Sept 5), plus new anxiety about being unable to quit/reduce use; raise with Dr. Furst given interactions with Seroquel, Trintellix, Gabapentin.
+- **New irritability/anger episodes during gaming** (Sept 12, 2026) — losing temper during verbal mix-ups with Steve, contributing to reduced desire to game; mention to Dr. Furst.
 - **EMDR progress** — 5th session as of Sept 5, 2026 with trauma counselor Alice; some early response noted; continue tracking.
 - **Social Security application** — not yet submitted; track submission date, status, decision.
 - **CTO of RCA** — conservatively managed; discuss with Dr. Solarz at next appointment.
